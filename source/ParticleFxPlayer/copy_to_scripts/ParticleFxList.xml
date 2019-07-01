@@ -11132,15 +11132,30 @@
     <FxNames>
       <FxName>
         <PTFXName>cs_bigscr_eject_shotgun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_bigscr_muz_shotgun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_bigscr_muz_ar</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_bigscr_beer_spray</PTFXName>
@@ -11148,23 +11163,48 @@
       </FxName>
       <FxName>
         <PTFXName>cs_bigscr_eject_auto</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_bigscr_cig_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_bigscr_muz_smg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_bigscr_cig_exhale_mouth</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cut_bigscr_vomit</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -13049,7 +13089,12 @@
     <FxNames>
       <FxName>
         <PTFXName>cs_gr_muz_assault_rifle</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -13058,31 +13103,98 @@
     <FxNames>
       <FxName>
         <PTFXName>exp_hum_fin_heli_sp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>ped_foot_dusty</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>size</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_hum_fin_heli_spawn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>sp_hum_fin_heli_fire_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_hum_fin_heli</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>radius</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>wheel_fric_hard_dusty</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>groundspeed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_exhaust_car</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>temp</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -13145,19 +13257,47 @@
     <FxNames>
       <FxName>
         <PTFXName>bullet_tracer_xm_thruster_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_thruster_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_thruster_jet</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>thrust</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_afterburner</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -13878,7 +14018,12 @@
     <FxNames>
       <FxName>
         <PTFXName>cs_dst_impotent_rage_toy</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -13974,19 +14119,75 @@
     <FxNames>
       <FxName>
         <PTFXName>bul_wood_splinter</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>water_boat_wash</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>reverse</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>water_boat_prop</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>forward</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>backward</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>shootout</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>wheel_fric_hard</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>friction</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>wet</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>spin</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_pac_fin_skid_smoke</PTFXName>
@@ -13994,7 +14195,24 @@
       </FxName>
       <FxName>
         <PTFXName>water_boat_dinghy_bow</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>keelforce</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>shootout</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -14835,15 +15053,30 @@
     <FxNames>
       <FxName>
         <PTFXName>cs_xm_lighter_flame</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_cig_exhale_mouth</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_cig_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_lighter_sparks</PTFXName>
@@ -14851,15 +15084,30 @@
       </FxName>
       <FxName>
         <PTFXName>cs_xm_pred_cloak_full</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_pred_minigun_muz_flash</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_pred_cloak_startup</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -14868,35 +15116,87 @@
     <FxNames>
       <FxName>
         <PTFXName>bullet_tracer_xm_thruster_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_thruster_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_muz_pistol</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_thruster_jet</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>thrust</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_afterburner</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_prop_stromberg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_eject_pistol</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_xm_strom_underwater_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>size</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -15038,15 +15338,38 @@
     <FxNames>
       <FxName>
         <PTFXName>exp_hydrant</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>collision</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>fire_petroltank_car</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_cig_exhale_mouth</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_hydrant_decals_sp</PTFXName>
@@ -15054,19 +15377,39 @@
       </FxName>
       <FxName>
         <PTFXName>cs_cig_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_pls_head_bang_blood</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_mich1_lighter_flame</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_cig_exhale_nose</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>cs_mich1_lighter_sparks</PTFXName>
@@ -15530,47 +15873,6 @@
     </FxNames>
   </FxAsset>
   <FxAsset>
-    <AssetName>des_bi_plane</AssetName>
-    <FxNames>
-      <FxName>
-        <PTFXName>ent_ray_ex1_plane_spark_R</PTFXName>
-        <EvolutionList>
-          <FxEvolution>
-            <EvolutionName>LOD</EvolutionName>
-            <Amount>1</Amount>
-          </FxEvolution>
-        </EvolutionList>
-      </FxName>
-      <FxName>
-        <PTFXName>ent_ray_ex1_plane_break_L</PTFXName>
-        <EvolutionList>
-          <FxEvolution>
-            <EvolutionName>LOD</EvolutionName>
-            <Amount>1</Amount>
-          </FxEvolution>
-        </EvolutionList>
-      </FxName>
-      <FxName>
-        <PTFXName>ent_ray_ex1_plane_spark_L</PTFXName>
-        <EvolutionList>
-          <FxEvolution>
-            <EvolutionName>LOD</EvolutionName>
-            <Amount>1</Amount>
-          </FxEvolution>
-        </EvolutionList>
-      </FxName>
-      <FxName>
-        <PTFXName>ent_ray_ex1_plane_break_R</PTFXName>
-        <EvolutionList>
-          <FxEvolution>
-            <EvolutionName>LOD</EvolutionName>
-            <Amount>1</Amount>
-          </FxEvolution>
-        </EvolutionList>
-      </FxName>
-    </FxNames>
-  </FxAsset>
-  <FxAsset>
     <AssetName>des_bigjobdrill</AssetName>
     <FxNames>
       <FxName>
@@ -15647,6 +15949,47 @@
     </FxNames>
   </FxAsset>
   <FxAsset>
+    <AssetName>des_bi_plane</AssetName>
+    <FxNames>
+      <FxName>
+        <PTFXName>ent_ray_ex1_plane_spark_R</PTFXName>
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
+      </FxName>
+      <FxName>
+        <PTFXName>ent_ray_ex1_plane_break_L</PTFXName>
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
+      </FxName>
+      <FxName>
+        <PTFXName>ent_ray_ex1_plane_spark_L</PTFXName>
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
+      </FxName>
+      <FxName>
+        <PTFXName>ent_ray_ex1_plane_break_R</PTFXName>
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
+      </FxName>
+    </FxNames>
+  </FxAsset>
+  <FxAsset>
     <AssetName>des_car_show_room</AssetName>
     <FxNames>
       <FxName>
@@ -15713,6 +16056,28 @@
       </FxName>
       <FxName>
         <PTFXName>ent_ray_ch2_farm_dust_terrain</PTFXName>
+        <EvolutionList />
+      </FxName>
+    </FxNames>
+  </FxAsset>
+  <FxAsset>
+    <AssetName>des_fibstairs</AssetName>
+    <FxNames>
+      <FxName>
+        <PTFXName>ent_ray_fbi5a_stairs_dust_fill</PTFXName>
+        <EvolutionList />
+      </FxName>
+      <FxName>
+        <PTFXName>ent_ray_fbi5a_stairs_fragment</PTFXName>
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
+      </FxName>
+      <FxName>
+        <PTFXName>ent_ray_fbi5a_stairs_silt_fall</PTFXName>
         <EvolutionList />
       </FxName>
     </FxNames>
@@ -15815,28 +16180,6 @@
       </FxName>
       <FxName>
         <PTFXName>ent_ray_fbi2_glass_drop</PTFXName>
-        <EvolutionList />
-      </FxName>
-    </FxNames>
-  </FxAsset>
-  <FxAsset>
-    <AssetName>des_fibstairs</AssetName>
-    <FxNames>
-      <FxName>
-        <PTFXName>ent_ray_fbi5a_stairs_dust_fill</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>ent_ray_fbi5a_stairs_fragment</PTFXName>
-        <EvolutionList>
-          <FxEvolution>
-            <EvolutionName>LOD</EvolutionName>
-            <Amount>1</Amount>
-          </FxEvolution>
-        </EvolutionList>
-      </FxName>
-      <FxName>
-        <PTFXName>ent_ray_fbi5a_stairs_silt_fall</PTFXName>
         <EvolutionList />
       </FxName>
     </FxNames>
@@ -15981,23 +16324,6 @@
     </FxNames>
   </FxAsset>
   <FxAsset>
-    <AssetName>des_pro_tree_crash</AssetName>
-    <FxNames>
-      <FxName>
-        <PTFXName>ent_ray_pro_tree_crash</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>ent_ray_pro_tree_crash_snow_slush</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>ent_ray_pro_tree_crash_snow</PTFXName>
-        <EvolutionList />
-      </FxName>
-    </FxNames>
-  </FxAsset>
-  <FxAsset>
     <AssetName>des_prologue_door</AssetName>
     <FxNames>
       <FxName>
@@ -16050,6 +16376,23 @@
             <Amount>1</Amount>
           </FxEvolution>
         </EvolutionList>
+      </FxName>
+    </FxNames>
+  </FxAsset>
+  <FxAsset>
+    <AssetName>des_pro_tree_crash</AssetName>
+    <FxNames>
+      <FxName>
+        <PTFXName>ent_ray_pro_tree_crash</PTFXName>
+        <EvolutionList />
+      </FxName>
+      <FxName>
+        <PTFXName>ent_ray_pro_tree_crash_snow_slush</PTFXName>
+        <EvolutionList />
+      </FxName>
+      <FxName>
+        <PTFXName>ent_ray_pro_tree_crash_snow</PTFXName>
+        <EvolutionList />
       </FxName>
     </FxNames>
   </FxAsset>
@@ -16624,11 +16967,21 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_drill_overheat</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>heat</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_drill_debris</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>power</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_drill_out</PTFXName>
@@ -16659,19 +17012,39 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_indep_firework_grd_burst</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_indep_launcher_sparkle_spawn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_indep_firework_air_burst</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>proj_indep_flare_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -16739,23 +17112,48 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_firework_xmas_ring_burst_rgw</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_firework_xmas_burst_rgw</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_firework_xmas_repeat_burst_rgw</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_firework_xmas_spiral_burst_rgw</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xmas_firework_sparkle_spawn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -16792,87 +17190,6 @@
             <Amount>1</Amount>
           </FxEvolution>
         </EvolutionList>
-      </FxName>
-    </FxNames>
-  </FxAsset>
-  <FxAsset>
-    <AssetName>ptfx_dump</AssetName>
-    <FxNames>
-      <FxName>
-        <PTFXName>1.0</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>bullet_tracer_xs_vehicle_remote_mg_sf</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>bullet_tracer_xs_vehicle_remote_mg_sf</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>LOD</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_turret_flamethrower_looping</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_turret_flamethrower_looping_smoke</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_turret_flamethrower_looping_flames</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_turret_flamethrower_looping_core</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>LOD</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_vehicle_remote_mg_sf</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_vehicle_remote_mg_sf_glow</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_vehicle_remote_mg_sf</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_vehicle_remote_mg_sf_core</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>LOD</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_turret_flamethrower_looping_sf</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_turret_flamethrower_looping_sf_smoke</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_turret_flamethrower_looping_sf_flames</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>muz_xs_turret_flamethrower_looping_sf_core</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>LOD</PTFXName>
-        <EvolutionList />
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17271,19 +17588,6 @@
     </FxNames>
   </FxAsset>
   <FxAsset>
-    <AssetName>scr_ar_planes</AssetName>
-    <FxNames>
-      <FxName>
-        <PTFXName>scr_ar_trail_smoke_slow</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>scr_ar_trail_smoke</PTFXName>
-        <EvolutionList />
-      </FxName>
-    </FxNames>
-  </FxAsset>
-  <FxAsset>
     <AssetName>scr_armenian1</AssetName>
     <FxNames>
       <FxName>
@@ -17365,23 +17669,56 @@
     </FxNames>
   </FxAsset>
   <FxAsset>
+    <AssetName>scr_ar_planes</AssetName>
+    <FxNames>
+      <FxName>
+        <PTFXName>scr_ar_trail_smoke_slow</PTFXName>
+        <EvolutionList />
+      </FxName>
+      <FxName>
+        <PTFXName>scr_ar_trail_smoke</PTFXName>
+        <EvolutionList />
+      </FxName>
+    </FxNames>
+  </FxAsset>
+  <FxAsset>
     <AssetName>scr_as_target</AssetName>
     <FxNames>
       <FxName>
         <PTFXName>scr_as_target_shot_extra_small</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_as_target_shot_medium</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_as_target_shot_large</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_as_target_shot_small</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17390,7 +17727,24 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_as_trans_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>wings</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>width</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>length</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17399,11 +17753,45 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_as_trap_zone_circle</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleX</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleY</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>Intensity</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_as_trap_zone_rectangle</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleX</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleY</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>Intensity</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17416,11 +17804,25 @@
       </FxName>
       <FxName>
         <PTFXName>scr_ba_bb_package_flare</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ba_bb_leaflet_drop</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>spawn</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ba_bb_plane_smoke_trail</PTFXName>
@@ -17450,15 +17852,42 @@
       </FxName>
       <FxName>
         <PTFXName>scr_ba_club_champagne_spray</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fade</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ba_club_smoke_machine</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ba_club_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fill</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fade</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17525,43 +17954,101 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_adversary_ped_light_good</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_wheel_lightning</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_weap_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_weap_glow</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_ped_light_bad</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fade</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_gunsmith_weap_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_judgement_lens_dirt</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>level</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_trail_lightning</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_foot_flames</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_gunsmith_weap_change</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_judgement_ash</PTFXName>
@@ -17569,15 +18056,38 @@
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_slipstream_formation</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>fade</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>group</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_ped_glow</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_adversary_slipstream</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>slipstream</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17586,7 +18096,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_bike_meth_propylene_pour</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_bike_meth_sodium_pour</PTFXName>
@@ -17602,11 +18117,21 @@
       </FxName>
       <FxName>
         <PTFXName>scr_bike_weed_fog</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_bike_spraybottle_spray</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_bike_coc_cocaine_scoop_pour</PTFXName>
@@ -17614,7 +18139,12 @@
       </FxName>
       <FxName>
         <PTFXName>scr_bike_weed_fog_upgrade</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_bike_meth_meth_scoop_pour</PTFXName>
@@ -17627,7 +18157,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_contact_sniper_kill</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17636,11 +18171,25 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_bike_truck_weed_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_bike_truck_weed_smoke_cabin</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>smoke_fade</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17667,11 +18216,21 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_heist_carrier_elec_fire_sp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_heist_carrier_elec_fire</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -17913,7 +18472,12 @@
     <FxNames>
       <FxName>
         <PTFXName>proj_indep_flare_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -19085,7 +19649,12 @@
       </FxName>
       <FxName>
         <PTFXName>scr_gr_bunk_mill_hose_spray</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_gr_bunk_clean_blow_debris</PTFXName>
@@ -19106,11 +19675,21 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_gr_def_package_flare</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_gr_sw_engine_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_gr_def_flare</PTFXName>
@@ -19118,7 +19697,12 @@
       </FxName>
       <FxName>
         <PTFXName>scr_gr_warp_in</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -19141,11 +19725,21 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_ie_export_fire_ring</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ie_export_package_flare</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ie_export_flare</PTFXName>
@@ -19158,7 +19752,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_ie_bul_coc_bag</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -19167,7 +19766,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_dst_cocaine</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -19176,11 +19780,29 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_impexp_tw_rpg_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_impexp_tw_take_zone</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleX</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleY</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -19189,11 +19811,21 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_ie_vv_vehicle_damage</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ie_vv_muzzle_flash</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -19202,15 +19834,30 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_impexp_jug_outfit_swap</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ie_jug_mask_flame</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_ie_jug_mask_steam</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -19219,7 +19866,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_impexp_dst_crate</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -19228,7 +19880,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_indep_firework_sparkle_spawn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_indep_firework_starburst</PTFXName>
@@ -19244,15 +19901,30 @@
       </FxName>
       <FxName>
         <PTFXName>scr_indep_firework_trailburst_spawn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_indep_firework_burst_spawn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_indep_firework_trail_spawn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_indep_firework_fountain</PTFXName>
@@ -19559,7 +20231,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_lowrider_flare</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -20473,19 +21150,47 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_heist_ornate_metal_drip</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>DIE_OFF</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_heist_ornate_banknotes</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_heist_ornate_metal_drip_sp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_heist_ornate_thermal_burn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>DieOff</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -20626,6 +21331,24 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_veh_plane_gen_damage</PTFXName>
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage_smoke</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>damage_fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
+      </FxName>
+    </FxNames>
+  </FxAsset>
+  <FxAsset>
+    <AssetName>scr_playerlamgraff</AssetName>
+    <FxNames>
+      <FxName>
+        <PTFXName>scr_lamgraff_paint_spray</PTFXName>
         <EvolutionList />
       </FxName>
     </FxNames>
@@ -20681,15 +21404,6 @@
             <Amount>1</Amount>
           </FxEvolution>
         </EvolutionList>
-      </FxName>
-    </FxNames>
-  </FxAsset>
-  <FxAsset>
-    <AssetName>scr_playerlamgraff</AssetName>
-    <FxNames>
-      <FxName>
-        <PTFXName>scr_lamgraff_paint_spray</PTFXName>
-        <EvolutionList />
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21271,7 +21985,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_sm_hl_package_flare</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_sm_hl_flare</PTFXName>
@@ -21279,11 +21998,25 @@
       </FxName>
       <FxName>
         <PTFXName>scr_dst_inflatable</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_sm_con_ped_light</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fade</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21292,7 +22025,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_sm_counter_chaff</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21301,7 +22039,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_sm_con_trans</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_sm_con_trans_fp</PTFXName>
@@ -21309,7 +22052,24 @@
       </FxName>
       <FxName>
         <PTFXName>scr_sm_trans_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>wings</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>width</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>length</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21375,15 +22135,46 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_sr_lg_take_zone</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleX</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleY</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_sr_lg_weapon_highlight</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleX</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>ScaleY</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_sr_dst_cardboard</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21405,7 +22196,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_stunts_fire_ring</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_stunts_shotburst</PTFXName>
@@ -21413,15 +22209,30 @@
       </FxName>
       <FxName>
         <PTFXName>scr_stunts_bomb_fuse</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_stunts_shotburst_spawn</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_stunts_bomb_fuse_sp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21430,11 +22241,21 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_tplaces_team_swap</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_tplaces_team_swap_nocash</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21605,15 +22426,38 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_bomb_cluster</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>radius</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_bomb_standard</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>radius</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_bomb_gas</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>radius</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21622,19 +22466,51 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xm_aq_final_kill_plane_delta</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>wings</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_aq_final_kill_thruster</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_aq_final_kill_plane_sweep</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>wings</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_aq_final_kill_plane</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>wings</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21643,11 +22519,21 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xm_dst_elec_crackle</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_dst_elec_crackle_sp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21656,7 +22542,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xm_heat_camo</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21669,7 +22560,12 @@
       </FxName>
       <FxName>
         <PTFXName>scr_xm_ht_package_flare</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21678,7 +22574,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xm_orbital_blast</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21687,7 +22588,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xm_para_car_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21696,15 +22602,38 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xm_riotvan_fire_back</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>strength</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_riotvan_extinguish</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_riotvan_fire_front</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>strength</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21722,7 +22651,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xm_stealcar_cargo_exhaust</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21731,23 +22665,48 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xm_submarine_surface_explosion</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_underwater_mine</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_submarine_explosion</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_submarine_surface_splashes</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_stromberg_scanner</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21756,11 +22715,21 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xs_money_rain</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_money_rain_celeb</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_confetti_burst</PTFXName>
@@ -21768,7 +22737,16 @@
       </FxName>
       <FxName>
         <PTFXName>scr_xs_champagne_spray</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fade</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_beer_chug</PTFXName>
@@ -21781,7 +22759,12 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xs_dr_emp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21790,19 +22773,55 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xs_sf_pit</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_fire_pit</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_sf_pit_long</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_fire_pit_long</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21811,19 +22830,39 @@
     <FxNames>
       <FxName>
         <PTFXName>scr_xs_exp_mine_sf</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_ball_explosion</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_oil_jack_fire</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xs_guided_missile_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21832,15 +22871,30 @@
     <FxNames>
       <FxName>
         <PTFXName>muz_xm_akula_mg_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_xm_akula_mg_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_xm_akula_mg_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21849,27 +22903,129 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_xm_avenger_downwash_default</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downwash</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_avenger_downwash_sand</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downwash</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_avenger_downwash_vegetation</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downwash</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_avenger_downwash_dirt</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downwash</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_vent_plane_avenger</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_avenger_downwash_water</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downwash</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21878,83 +23034,183 @@
     <FxNames>
       <FxName>
         <PTFXName>exp_blimp3_11</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_1</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_10</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_2</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_17</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_15</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_16</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_7</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_14</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_13</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_8</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_9</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_19</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_3</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_18</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_4</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_5</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_6</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_12</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_blimp3_0</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21963,31 +23219,90 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_ba_oppressor_turbulance_default</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_ba_oppressor_turbulance_foliage</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_ba_oppressor_turbulance_water</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_ba_oppressor_turbulance_sand</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_ba_oppressor_engine_glow</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_grd_ba_opp2_cannon</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_ba_oppressor_turbulance_dirt</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -21996,7 +23311,16 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_exhaust_strikeforce</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22005,27 +23329,57 @@
     <FxNames>
       <FxName>
         <PTFXName>eject_xm_barrage_mg_turret_rear</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_xm_barrage_mg_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_xm_barrage_minigun_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_barrage_minigun_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_xm_barrage_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_barrage_mg_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22034,7 +23388,12 @@
     <FxNames>
       <FxName>
         <PTFXName>muz_xm_cherno</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22157,7 +23516,12 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_ruiner_hop</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22166,40 +23530,70 @@
     <FxNames>
       <FxName>
         <PTFXName>proj_xm_khanjali_grenade_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_xm_khanjali_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_khanjali_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_khanjali_railgun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>proj_xm_khanjali_railgun_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_khanjali_railgun_charge</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>charge</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_xm_khanjali_mg</PTFXName>
-        <EvolutionList />
-      </FxName>
-    </FxNames>
-  </FxAsset>
-  <FxAsset>
-    <AssetName>veh_mounted_turret_limo</AssetName>
-    <FxNames>
-      <FxName>
-        <PTFXName>eject_mounted_turret_limo</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22208,19 +23602,39 @@
     <FxNames>
       <FxName>
         <PTFXName>bullet_tracer_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_mounted_turret_technical</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_mounted_turret</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22275,15 +23689,55 @@
     </FxNames>
   </FxAsset>
   <FxAsset>
+    <AssetName>veh_mounted_turret_limo</AssetName>
+    <FxNames>
+      <FxName>
+        <PTFXName>eject_mounted_turret_limo</PTFXName>
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
+      </FxName>
+    </FxNames>
+  </FxAsset>
+  <FxAsset>
     <AssetName>veh_sanctus</AssetName>
     <FxNames>
       <FxName>
         <PTFXName>veh_sanctus_exhaust</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>temp</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_sanctus_backfire</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_sanctus_exhaust_start</PTFXName>
@@ -22296,7 +23750,16 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_sm_car_small_backfire</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>banger</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22305,11 +23768,29 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_exhaust_afterburner_molotok</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_exhaust_afterburner_pyro</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22318,15 +23799,46 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_exhaust_starling</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_vent_plane_starling</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_afterburner_starling</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22335,15 +23847,38 @@
     <FxNames>
       <FxName>
         <PTFXName>muz_sm_vehicle_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_rocket_boost_vig</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>boost</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>charge</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_sm_vehicle_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22352,27 +23887,73 @@
     <FxNames>
       <FxName>
         <PTFXName>muz_xm_strom_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_strom_underwater_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>size</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>proj_torpedo_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_underwater_torpedo</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_torpedo</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_prop_stromberg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>forward</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>depth</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>backward</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22381,55 +23962,224 @@
     <FxNames>
       <FxName>
         <PTFXName>bullet_tracer_xm_thruster_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_thruster_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_wreck_fire</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>fade</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_downwash_foliage</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downforce</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>angle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_downwash_sand</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downforce</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>angle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_thruster_jet</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>thrust</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_downwash</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downforce</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>angle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_engine_damage</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_thruster_rpg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_afterburner</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>throttle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_downwash_dirt</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downforce</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>angle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xm_thruster_downwash_water</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>downforce</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>angle</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>proj_xm_thruster_rpg_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22438,11 +24188,33 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_vent_plane_volatol</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xm_volatol_twinmg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>scr_xm_volatol_turret_camera</PTFXName>
@@ -22455,11 +24227,21 @@
     <FxNames>
       <FxName>
         <PTFXName>exp_xs_mine_spike</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_xs_mine_kinetic</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_xs_mine_tar</PTFXName>
@@ -22471,11 +24253,21 @@
       </FxName>
       <FxName>
         <PTFXName>exp_xs_mine_emp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_xs_electrified_rambar</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_xs_mine_slick</PTFXName>
@@ -22488,35 +24280,75 @@
     <FxNames>
       <FxName>
         <PTFXName>eject_ba_vehicle_remote_minigun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_ba_vehicle_remote_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_ba_vehicle_front_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_ba_vehicle_remote_missile</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_ba_vehicle_remote_minigun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_ba_vehicle_remote_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>proj_ba_remote_gl_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_ba_vehicle_remote_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22525,11 +24357,21 @@
     <FxNames>
       <FxName>
         <PTFXName>eject_dbshotgun_fp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_dbshotgun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22538,91 +24380,201 @@
     <FxNames>
       <FxName>
         <PTFXName>proj_gr_moc_cannon_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_tampa_minigun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_dune_minigun_fp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_opp_fp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>proj_mounted_turret_mortar</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_mounted_turret_dune_minigun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_mounted_turret_twinmg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_mounted_turret_dune_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_mounted_turret_insurgent3_minigun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_dune_minigun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_apc_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_mounted_turret_tampa_minigun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_mounted_turret_quadmg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_gr_vehicle_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_dune_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_gr_vehicle_opp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_turret_gr</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_twinmg_trailer</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_turret_gr_tampa</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_apc</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_twinmg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_mounted_turret_apc_missile</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22645,11 +24597,21 @@
     <FxNames>
       <FxName>
         <PTFXName>muz_ie_vehicle_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_ie_vehicle_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22658,11 +24620,21 @@
     <FxNames>
       <FxName>
         <PTFXName>eject_minismg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_minismg_fp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22671,7 +24643,12 @@
     <FxNames>
       <FxName>
         <PTFXName>proj_pipebomb_smoke</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22694,7 +24671,12 @@
     <FxNames>
       <FxName>
         <PTFXName>proj_rpg_barrage_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22703,27 +24685,60 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_vent_plane_bom</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_sm_bom_twinmg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_sm_bom_cannon</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_turret_sm</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_sm_bom_twinmg</PTFXName>
-        <EvolutionList />
-      </FxName>
-      <FxName>
-        <PTFXName>proj_rpg_barrage_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22732,11 +24747,21 @@
     <FxNames>
       <FxName>
         <PTFXName>muz_sm_mogul_turret_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_turret_mogul</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22745,35 +24770,95 @@
     <FxNames>
       <FxName>
         <PTFXName>veh_seabreeze_turbulance_water</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_sm_tula_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_sm_tula_turret_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_vent_plane_tula</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>damage</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>fire</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>bullet_tracer_turret_tula</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_sm_tula_turret_minigun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>veh_tula_turbulance_water</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>speed</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+          <FxEvolution>
+            <EvolutionName>distance</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_sm_tula_turret_mg</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22809,39 +24894,84 @@
     <FxNames>
       <FxName>
         <PTFXName>tracer_xm_shotgun_inc</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_shotgun_exp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_shotgun_exp_fp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_shotgun_hp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_shotgun_hp_fp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_shotgun_ap_fp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_shotgun_ap</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_shotgun_inc_fp</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>eject_shotgun_inc</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22891,36 +25021,57 @@
     <FxNames>
       <FxName>
         <PTFXName>bullet_tracer_xs_sr</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>proj_xs_sr_raygun_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xs_sr_carbine</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>exp_xs_ray</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xs_sr_raygun</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
       <FxName>
         <PTFXName>muz_xs_sr_minigun</PTFXName>
-        <EvolutionList />
-      </FxName>
-    </FxNames>
-  </FxAsset>
-  <FxAsset>
-    <AssetName>wpn_amrifle</AssetName>
-    <FxNames>
-      <FxName>
-        <PTFXName>eject_sniper_amrifle</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22929,7 +25080,12 @@
     <FxNames>
       <FxName>
         <PTFXName>proj_heist_flare_trail</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
@@ -22938,7 +25094,12 @@
     <FxNames>
       <FxName>
         <PTFXName>muz_indep_firework</PTFXName>
-        <EvolutionList />
+        <EvolutionList>
+          <FxEvolution>
+            <EvolutionName>LOD</EvolutionName>
+            <Amount>1</Amount>
+          </FxEvolution>
+        </EvolutionList>
       </FxName>
     </FxNames>
   </FxAsset>
