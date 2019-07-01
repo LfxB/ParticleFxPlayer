@@ -1,0 +1,27 @@
+"veh_exhaust_hidden"-> speed, temp, damage, throttle, LOD
+"cs_wheel_fric_sand_Bike"-> groundspeed, wheelangle
+"cs_finale2_dust_cloud"-> LOD
+"cs_finale1_car_explosion_surge_spawn"-> LOD
+"cs_fin_car_radiator_smoke"
+"cs_finale1_car_splash_impact"-> LOD
+"cs_fin_bul_carmetal"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_finale1_car_splash"-> Depth, River, LOD
+"cs_fbi5a_muz_pistol"-> LOD
+"cs_cig_exhale_mouth_finale"-> LOD
+"cs_cig_smoke"-> LOD
+"wheel_fric_dirt_dry"-> friction, wet, speed, LOD
+"cs_fin_car_impact"-> LOD
+"bang_carmetal"-> impulse, velocity, LOD, vehicle
+"cs_mich1_lighter_flame"-> LOD
+"cs_fin_car_cliff_debris"
+"veh_exhaust_truck"-> speed, temp, damage, throttle, LOD
+"cs_finale1_car_explosion"
+"cs_cig_exhale_nose"-> LOD
+"cs_finale_car_explosion_splashes_spawn"-> LOD
+"exp_grd_rpg_spawn"-> LOD
+"cs_fin_bang_carmetal"
+"cs_finale3_punch_blood"
+"cs_mich1_lighter_sparks"
+"cs_water_splash_jetski"-> size, speed
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

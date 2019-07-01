@@ -1,0 +1,6 @@
+"scr_firework_indep_burst_rwb"-> LOD
+"scr_firework_indep_spiral_burst_rwb"-> LOD
+"scr_xmas_firework_sparkle_spawn"-> LOD
+"scr_firework_indep_ring_burst_rwb"-> LOD
+"scr_xmas_firework_burst_fizzle"-> LOD
+"scr_firework_indep_repeat_burst_rwb"-> LOD

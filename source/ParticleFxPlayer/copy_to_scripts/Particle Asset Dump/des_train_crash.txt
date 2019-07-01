@@ -1,0 +1,16 @@
+"ent_ray_train_water_wash"-> LOD
+"ent_ray_train_sparks"
+"ent_ray_train_debris_splash"-> LOD, SPLASHES
+"ent_ray_train_dust_silt"
+"ent_ray_meth_dust_settle"-> LOD
+"ent_ray_train_debris2"
+"ent_ray_train_glass"
+"ent_ray_train_debris_water_splash"-> LOD
+"ent_ray_train_debris"
+"scr_trev1_crash_dust"-> speed
+"ent_ray_train_debris_splash_spawn"-> LOD
+"ent_ray_train_falling_debris"-> LOD, DEBRIS
+"ent_ray_train_impact"
+"ent_ray_train_splash"-> LOD
+"ent_ray_train_sparks_trails"
+"ent_ray_train_smoke"

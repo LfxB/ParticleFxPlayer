@@ -1,0 +1,11 @@
+"cs_jh_bourbon_pour"-> LOD
+"cs_trev1_crackpipe_smoke"-> LOD
+"cs_head_kick_blood"
+"cs_trev1_beer_bottle"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"cs_trev1_dusty_kick"-> LOD, size
+"cs_trev1_lighter_sparks"
+"cs_trev1_trailer_wash"
+"cs_trev1_lighter_flame"-> LOD
+"cs_cig_exhale_nose"-> LOD

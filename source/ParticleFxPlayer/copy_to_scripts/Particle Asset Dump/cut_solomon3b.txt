@@ -1,0 +1,5 @@
+"cs_sol3b_tarmac_exp"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"cs_sol3b_camera"

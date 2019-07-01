@@ -1,0 +1,10 @@
+"scr_golf_ball_trail"-> LOD
+"scr_golf_strike_bunker"-> LOD
+"scr_golf_landing_thick_grass"-> LOD
+"scr_golf_strike_thick_grass"-> LOD
+"scr_golf_tee_perfect"-> LOD
+"scr_golf_strike_fairway_bad"-> LOD
+"scr_golf_strike_fairway"-> LOD
+"scr_golf_hit_branches"
+"scr_golf_landing_bunker"-> LOD
+"scr_golf_landing_water"-> LOD

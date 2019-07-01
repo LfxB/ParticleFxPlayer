@@ -1,0 +1,1 @@
+"scr_stuntplane_trail"-> smoke, LOD

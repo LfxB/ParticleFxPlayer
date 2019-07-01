@@ -1,0 +1,2 @@
+"scr_para_kick_blood"
+"scr_prologue_door_blast"

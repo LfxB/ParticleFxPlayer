@@ -1,0 +1,4 @@
+"scr_trev2_heli_wreck"-> LOD
+"scr_trev2_heli_exp"-> LOD
+"scr_trev2_flare_L"-> LOD
+"scr_rotor_blade_blood"-> LOD

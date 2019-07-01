@@ -1,0 +1,7 @@
+"cs_nar_fin_trevor_splash" 
+"cs_nar_fin_trevor_arm_drips"-> speed, spine, LOD
+"cs_fam5_water_splash_ped_out"-> speed, spine, LOD
+"cs_fam2_ped_splash" 
+"eject_pistol"-> LOD
+"muz_pistol"-> LOD
+"bul_dirt"-> LOD

@@ -1,0 +1,6 @@
+"scr_mp_generic_dst"-> LOD
+"ent_anim_cig_exhale_nse"-> LOD
+"scr_mp_drug_dst"-> LOD
+"ent_anim_cig_smoke"-> LOD
+"scr_mp_elec_dst"-> LOD
+"ent_anim_cig_exhale_mth"-> LOD

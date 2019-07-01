@@ -1,0 +1,1 @@
+"veh_rocket_boost"-> LOD, boost, charge

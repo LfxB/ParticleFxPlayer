@@ -1,0 +1,3 @@
+"cs_sol1_plane_wreck_smoke"
+"scr_sol1_plane_wreck"-> LOD
+"cs_martin1_wheel_dust"-> groundspeed, LOD

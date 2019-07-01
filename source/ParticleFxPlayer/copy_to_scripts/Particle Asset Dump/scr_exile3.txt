@@ -1,0 +1,12 @@
+"ent_ray_train_debris_splash"-> LOD, SPLASHES
+"scr_ex3_engine_fire"-> LOD
+"cs_fam5_water_splash_ped_out"-> speed, spine, LOD
+"cs_fam5_water_splash_ped_in"-> speed, spine, LOD
+"water_splash_ped"-> LOD, speed
+"scr_ex3_container_smoke"-> LOD
+"ent_ray_train_debris_splash_spawn"-> LOD
+"scr_ex3_water_dinghy_wash"-> LOD
+"ent_ray_train_falling_debris"-> LOD, DEBRIS
+"cs_fam5_water_splash_ped_wade"-> speed, spine, LOD, size
+"ent_ray_train_splash"-> LOD
+"cs_fam5_michael_pool_splash"

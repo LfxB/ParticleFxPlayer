@@ -1,0 +1,4 @@
+"cs_lemar_blood_entry"-> LOD, angle
+"blood_entry"-> LOD, angle
+"cs_cig_smoke_lamar"-> LOD
+"muz_pistol"-> LOD

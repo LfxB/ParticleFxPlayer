@@ -1,0 +1,6 @@
+"cs_ex3_wheel_spin"-> spin, LOD, friction
+"cs_ex1_water_body"-> speed, spine, LOD, size
+"cs_ex1_water_box"-> speed, spine, LOD, size
+"cs_ex3_sand_dust"-> groundspeed, LOD
+"cs_ex1_water_arms"-> speed, spine, LOD, size
+"cs_ex3_water_drips"-> speed, spine, LOD

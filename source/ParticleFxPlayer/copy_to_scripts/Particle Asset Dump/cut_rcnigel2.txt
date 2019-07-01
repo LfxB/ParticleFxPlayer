@@ -1,0 +1,2 @@
+"cs_camera_flash"-> LOD
+"veh_panel_shut_car"-> damage, speed, reverse, LOD, fire

@@ -1,0 +1,5 @@
+"bullet_tracer_valkyrie"-> LOD
+"muz_valkyrie"-> LOD
+"muz_valkyrie_turret"-> LOD
+"eject_mounted_turret"-> LOD
+"eject_valkyrie"-> LOD

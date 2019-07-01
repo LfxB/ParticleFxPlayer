@@ -1,0 +1,2 @@
+"cs_wheel_fric_sand_Bike"-> groundspeed, wheelangle
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

@@ -1,0 +1,3 @@
+"scr_ojtaxi_hotbox_window"-> LOD, speed, smoke
+"scr_ojtaxi_hotbox_trail"-> LOD, speed, smoke
+"scr_ojtaxi_hotbox_door"-> LOD, speed, smoke

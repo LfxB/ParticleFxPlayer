@@ -1,0 +1,7 @@
+"cs_jewel_door_smoke"
+"cs_jh_bourbon_pour"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"cs_jewel_grenade_burst"-> smoke
+"cs_cig_exhale_nose"-> LOD
+"scr_jewel_haze"-> smoke

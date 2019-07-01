@@ -1,0 +1,5 @@
+"bul_concrete"-> LOD
+"bul_carmetal"-> LOD
+"blood_entry"-> LOD, angle
+"eject_pistol"-> LOD
+"muz_pistol"-> LOD

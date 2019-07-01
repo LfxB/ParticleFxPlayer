@@ -1,0 +1,20 @@
+"scr_agency3b_blding_smoke"-> LOD
+"scr_agency3b_wood_splinter"-> LOD
+"scr_fbi5b_fragment"-> LOD
+"scr_agency3b_linger_smoke"
+"scr_agency3b_heli_expl"
+"scr_agency_atrium_silt"
+"scr_agency_atrium_glass"
+"scr_agency3b_proj_rpg_trail"-> LOD
+"sp_fbi_collapse_debris"-> LOD
+"scr_agency3b_shot_chopper"
+"proj_grenade_trail"-> LOD
+"sp_ent_sparking_wires"-> LOD
+"scr_env_agency3b_smoke"-> smoke, cinder, debris, speed, smoke_strength
+"scr_agency3b_heli_spawn"
+"scr_fbi5b_silt_fall"
+"scr_agency_door_haze"
+"ent_amb_fbi_live_wires"-> LOD
+"scr_agency_heli_slide_dust"
+"scr_agency3b_heli_exp_trail"
+"scr_agency3b_elec_box"-> LOD

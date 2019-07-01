@@ -1,0 +1,2 @@
+"muz_xm_revolver"-> LOD, driveby
+"eject_xm_revolver"-> LOD

@@ -1,0 +1,10 @@
+"scr_fbi3_dirty_wtr_splash_sp"
+"scr_fbi3_elec_smoulder"-> smoke
+"cs_cig_exhale_mouth"-> LOD
+"scr_fbi3_blood_extraction"
+"cs_cig_smoke"-> LOD
+"scr_fbi3_dirty_water_pour"-> pour
+"scr_fbi3_blood_throwaway"
+"scr_fbi3_blood_mouth"
+"cs_cig_exhale_nose"-> LOD
+"scr_fbi3_elec_sparks"

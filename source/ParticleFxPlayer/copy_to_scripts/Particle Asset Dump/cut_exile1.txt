@@ -1,0 +1,18 @@
+"ent_amb_sparking_wires_sm_sp"-> LOD
+"cs_ex1_plane_spark_L"-> LOD
+"cs_ex1_plane_spark_R"-> LOD
+"ent_amb_peeing"-> LOD
+"liquid_splash_pee"
+"bul_carmetal"-> LOD
+"bullet_shotgun_tracer"-> LOD
+"cs_ex1_plane_debris_trail"-> LOD
+"cs_ex1_wing_smoulder"-> LOD
+"eject_shotgun"-> LOD
+"cs_ex1_plane_break_L"-> LOD
+"muz_shotgun"-> LOD
+"cs_ex1_plane_impacts"-> impulse, velocity, LOD
+"cs_ex1_sparking_wires_sm"-> LOD
+"cs_ex1_plane_break_R"-> LOD
+"cs_ex1_elec_malfunction"-> LOD
+"muz_pistol"-> LOD
+"cs_ex1_cargo_fire"-> fade, LOD

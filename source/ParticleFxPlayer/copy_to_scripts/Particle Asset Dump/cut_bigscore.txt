@@ -1,0 +1,3 @@
+"cs_dry_ice_point"-> LOD
+"cs_dry_ice_freezer_floor"
+"cs_dry_ice_freezer_door"-> LOD

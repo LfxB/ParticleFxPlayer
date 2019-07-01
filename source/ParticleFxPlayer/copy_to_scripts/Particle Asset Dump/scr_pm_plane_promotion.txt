@@ -1,0 +1,2 @@
+"scr_stuntplane_trail"-> smoke, LOD
+"scr_property_leaflet_drop"-> LOD, spawn

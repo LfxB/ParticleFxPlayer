@@ -1,0 +1,9 @@
+"sp_prologue_debris"-> LOD
+"ent_ray_pro_door_sparks"
+"ent_ray_pro_door_sprinkler"
+"ent_ray_pro_door_light_glass"
+"ent_ray_pro1_water_splash_spawn"
+"ent_ray_pro_door_ceiling_debris"
+"ent_ray_pro_door_embers"-> LOD
+"ent_ray_pro_door_fireball_light"
+"ent_ray_pro_door_steam"-> LOD

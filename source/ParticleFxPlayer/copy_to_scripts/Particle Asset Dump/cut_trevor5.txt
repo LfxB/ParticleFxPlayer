@@ -1,0 +1,1 @@
+"cs_trev5_door_splinter"-> LOD

@@ -1,0 +1,12 @@
+"ent_ray_shipwreck_exp_underwater"
+"ent_ray_shipwreck_exp"-> LOD
+"ent_ray_shipwreck_fire_window"-> LOD
+"ent_ray_shipwreck_splash_L"-> Depth, River, LOD
+"ent_ray_shipwreck_pipe_impacts"-> LOD
+"ent_ray_shipwreck_exp_window"-> LOD
+"ent_ray_shipwreck_water_churn"
+"ent_ray_shipwreck_splash_S"-> Depth, River, LOD
+"ent_ray_shipwreck_container_trail"-> size, speed
+"ent_ray_shipwreck_smoke_plume"-> LOD
+"ent_ray_shipwreck_sparks"
+"ent_ray_shipwreck_wood_debris"

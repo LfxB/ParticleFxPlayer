@@ -1,0 +1,4 @@
+"ent_ray_arm3_sparking_wires"-> LOD
+"ent_ray_arm3_paper"-> LOD
+"ent_ray_arm3_wood_splinter"-> LOD
+"ent_ray_arm3_window_break"

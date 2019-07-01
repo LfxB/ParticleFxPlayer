@@ -1,0 +1,10 @@
+"sp_prologue_debris"-> LOD
+"scr_prologue_vault_haze"
+"scr_prologue_vault_fog"-> LOD
+"scr_pro_door_snow"-> LOD
+"ent_ray_pro_door_embers"-> LOD
+"ent_ray_pro1_vault_exp_lit"
+"scr_prologue_door_blast"
+"scr_pro_car_steam"-> LOD
+"scr_pro_door_splinters"-> LOD
+"scr_prologue_ceiling_debris"

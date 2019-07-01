@@ -1,0 +1,9 @@
+"ent_ray_big_drill_start_sparks"-> LOD
+"ent_ray_big_drill_start"-> LOD
+"sp_fbi_collapse_debris"-> LOD
+"ent_ray_big_drill_ibt"
+"ent_ray_big_drill_trail"-> LOD
+"ent_ray_big_drill_ground_dust"
+"ent_ray_big_drill_cloud"-> LOD
+"ent_ray_big_drill_sparks"-> LOD
+"ent_ray_big_drill_loop"-> LOD

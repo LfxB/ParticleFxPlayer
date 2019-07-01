@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ptxEffectRules>
+  <ptxEffectRule name="bullet_tracer_xs_vehicle_remote_mg_sf">
+    <ptxEventEmitters>
+      <item name="bullet_tracer_xs_vehicle_remote_mg_sf" />
+    </ptxEventEmitters>
+    <ptxEvolutionArgs>
+      <item name="LOD" />
+    </ptxEvolutionArgs>
+  </ptxEffectRule>
+  <ptxEffectRule name="muz_xs_turret_flamethrower_looping">
+    <ptxEventEmitters>
+      <item name="muz_xs_turret_flamethrower_looping_smoke" />
+      <item name="muz_xs_turret_flamethrower_looping_flames" />
+      <item name="muz_xs_turret_flamethrower_looping_core" />
+    </ptxEventEmitters>
+    <ptxEvolutionArgs>
+      <item name="LOD" />
+    </ptxEvolutionArgs>
+  </ptxEffectRule>
+  <ptxEffectRule name="muz_xs_vehicle_remote_mg_sf">
+    <ptxEventEmitters>
+      <item name="muz_xs_vehicle_remote_mg_sf_glow" />
+      <item name="muz_xs_vehicle_remote_mg_sf" />
+      <item name="muz_xs_vehicle_remote_mg_sf_core" />
+    </ptxEventEmitters>
+    <ptxEvolutionArgs>
+      <item name="LOD" />
+    </ptxEvolutionArgs>
+  </ptxEffectRule>
+  <ptxEffectRule name="muz_xs_turret_flamethrower_looping_sf">
+    <ptxEventEmitters>
+      <item name="muz_xs_turret_flamethrower_looping_sf_smoke" />
+      <item name="muz_xs_turret_flamethrower_looping_sf_flames" />
+      <item name="muz_xs_turret_flamethrower_looping_sf_core" />
+    </ptxEventEmitters>
+    <ptxEvolutionArgs>
+      <item name="LOD" />
+    </ptxEvolutionArgs>
+  </ptxEffectRule>
+</ptxEffectRules>

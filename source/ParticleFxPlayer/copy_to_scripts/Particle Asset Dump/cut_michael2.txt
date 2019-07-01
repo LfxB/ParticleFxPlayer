@@ -1,0 +1,12 @@
+"eject_auto"-> LOD
+"cs_bul_concrete"-> LOD
+"muz_assault_rifle"-> LOD
+"cs_mich2_blood_nose"-> LOD
+"liquid_splash_blood"
+"cs_ped_foot_snow"-> LOD, size, speed
+"cs_mich_bul_carmetal"-> LOD
+"cs_mich2_mud_flower"-> LOD
+"cs_chaingun_muz"-> LOD
+"eject_pistol"-> LOD
+"muz_pistol"-> LOD
+"cs_mich2_blood_head_leak"-> LOD

@@ -1,0 +1,7 @@
+"cs_wheel_fric_sand_Bike"-> groundspeed, wheelangle
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"cs_mich1_lighter_flame"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"cs_mich1_lighter_sparks"
+"cs_fib3_syringe"-> LOD

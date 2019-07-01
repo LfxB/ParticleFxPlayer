@@ -1,0 +1,5 @@
+"cs_pls_sub_water_drips"-> flow
+"cs_pls_head_bang_blood"-> LOD
+"cs_pls_ped_splash"-> bigger
+"cs_pls_tea_pour"-> LOD
+"cs_ped_foot_dusty"-> LOD, size, speed

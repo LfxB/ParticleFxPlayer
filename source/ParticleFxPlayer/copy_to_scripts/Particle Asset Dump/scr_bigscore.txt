@@ -1,0 +1,5 @@
+"scr_bigscore_peeing"-> LOD
+"liquid_splash_pee"
+"scr_bigscore_ramp_sparks"-> LOD
+"scr_bigscore_rpg_trail"-> LOD
+"scr_bigscore_tyre_spiked"-> LOD, speed

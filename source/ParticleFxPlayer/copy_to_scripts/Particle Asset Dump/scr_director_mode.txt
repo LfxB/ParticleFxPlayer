@@ -1,0 +1,3 @@
+"ent_anim_cig_exhale_mth_car"-> LOD
+"ent_anim_cig_exhale_nse_car"-> LOD
+"ent_anim_cig_smoke_car"-> LOD

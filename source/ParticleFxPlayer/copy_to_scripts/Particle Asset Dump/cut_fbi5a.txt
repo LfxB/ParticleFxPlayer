@@ -1,0 +1,6 @@
+"cs_fbi5a_blood_entry"-> LOD, angle
+"wheel_fric_sand"-> groundspeed, LOD
+"cs_fbi5a_muz_pistol"-> LOD
+"ped_talk_water"-> LOD, depth, speed
+"cs_trev1_dusty_kick"-> LOD, size
+"ped_water_drips"-> LOD, inwater

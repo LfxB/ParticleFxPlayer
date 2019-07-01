@@ -1,0 +1,5 @@
+"scr_trev3_trailer_expolsion"-> LOD
+"exp_grd_vehicle_spawn"-> LOD
+"scr_trev3_c4_explosion"-> LOD
+"scr_trev3_trailer_plume"-> LOD
+"ent_ray_trev3_trailer_light"

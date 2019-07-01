@@ -1,0 +1,3 @@
+"cs_water_boat_prop"-> forward, LOD, backward, shootout
+"cs_water_boat_Jetmax_bow"-> keelforce, speed, LOD, shootout
+"scr_arm1_wheel_skid"-> friction, wet, speed, LOD

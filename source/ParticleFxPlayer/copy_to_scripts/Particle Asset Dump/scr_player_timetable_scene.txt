@@ -1,0 +1,6 @@
+"scr_pts_vomit_water"-> LOD
+"ent_dst_pineapple"-> LOD
+"scr_pts_glass_bottle"
+"scr_pts_headsplash"-> LOD
+"scr_pts_guitar_break"-> LOD
+"scr_pts_digging"-> LOD

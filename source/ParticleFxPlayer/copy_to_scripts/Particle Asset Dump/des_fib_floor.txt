@@ -1,0 +1,4 @@
+"ent_ray_fbi5a_ramp_explosion"
+"ent_ray_fbi5a_ramp_fragment"-> LOD
+"ent_ray_fbi5a_ramp_dust_impact"
+"ent_ray_fbi5a_ramp_metal_imp"

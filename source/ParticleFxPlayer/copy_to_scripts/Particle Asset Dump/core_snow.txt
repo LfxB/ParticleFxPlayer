@@ -1,0 +1,15 @@
+"wheel_fric_snow"-> friction, speed, LOD, depth
+"cs_mich1_spade_dirt_throw"-> LOD
+"scrape_snow"-> velocity, Impulse, Vehicle
+"lens_snow"-> level, angle, speed
+"bul_snow"-> LOD
+"bang_snow"-> impulse, velocity, LOD
+"wheel_fric_snow_Bike"-> friction, speed, LOD, depth
+"wheel_fric_snow_loose"-> LOD, groundspeed, wheelangle, Depth
+"cs_mich1_spade_dirt_impact"-> LOD
+"cs_mich1_spade_dirt_trail"-> LOD
+"wheel_spin_snow"-> spin, LOD, friction, depth
+"veh_roof_snow"-> speed, LOD
+"ped_wade_snow"-> speed, LOD, depth
+"ped_foot_snow"-> LOD, size, speed
+"wheel_fric_snow_LOD"-> groundspeed

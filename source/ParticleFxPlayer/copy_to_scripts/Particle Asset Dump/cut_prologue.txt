@@ -1,0 +1,28 @@
+"cs_prologue_brad_blood"
+"eject_auto"-> LOD
+"cs_pro_wheel_snow"-> LOD
+"scr_prol_ped_slush"-> LOD
+"cs_pro_train_sparks"-> impulse, velocity, LOD
+"cs_pro_muz_shotgun"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_prologue_tree_crash"
+"cs_ped_foot_snow"-> LOD, size, speed
+"cs_prologue_michael_shot"
+"cs_cig_smoke"-> LOD
+"cs_pro_car_train_impact"-> impulse, velocity, LOD
+"cs_prologue_train_crash"
+"cs_cig_exhale_mouth_prologue"-> LOD
+"cs_pro_car_crash_snow"-> size, speed, LOD
+"cs_pro_blood_exit"
+"wheel_fric_snow_loose"-> LOD, groundspeed, wheelangle, Depth
+"cs_pro_ped_breath"-> speed, temp, rate, LOD
+"wheel_burnout_snow"-> LOD
+"cs_pro_car_impact"-> impulse, velocity, LOD
+"cs_pro_muz_assault_rifle"-> LOD
+"cs_cig_smoke_prologue"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"cs_prologue_tire_mist"-> LOD, groundspeed, wheelangle
+"ped_wade_snow"-> speed, LOD, depth
+"cs_pro_bul_carmetal"-> size, LOD, heli
+"cs_pro_glass_smash"-> LOD
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

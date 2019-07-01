@@ -1,0 +1,9 @@
+"eject_auto"-> LOD
+"muz_assault_rifle"-> LOD
+"cs_mich3_blood_entry"-> LOD
+"ped_foot_dusty"-> LOD, size, speed
+"cs_mich3_blood_exit"-> LOD
+"cs_rc_minuteman1_spit"
+"eject_pistol"-> LOD
+"cs_mich3_head_shot"-> LOD
+"muz_pistol"-> LOD

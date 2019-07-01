@@ -1,0 +1,5 @@
+"scr_carsteal4_trailer_scrape"-> impulse, velocity, LOD, vehicle
+"scr_carsteal5_car_muzzle_flash"-> LOD
+"scr_carsteal4_tyre_spikes"-> size, LOD, heli
+"scr_carsteal4_wheel_burnout"-> LOD
+"scr_carsteal5_tyre_spiked"-> LOD

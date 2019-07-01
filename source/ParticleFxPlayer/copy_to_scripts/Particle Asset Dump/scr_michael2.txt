@@ -1,0 +1,9 @@
+"scr_mich2_spark_impact"-> LOD
+"scr_abattoir_ped_sliced"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"scr_mich2_blood_stab"-> LOD, angle
+"cs_cig_smoke"-> LOD
+"scr_abattoir_ped_minced"-> LOD
+"scr_acid_bath_splash"
+"scr_pts_headsplash"-> LOD
+"scr_mich3_heli_fire"-> LOD

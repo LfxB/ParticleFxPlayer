@@ -1,0 +1,14 @@
+"scr_ex1_cargo_smoke"-> LOD
+"scr_ex1_dust_settle"
+"ent_amb_sparking_wires_sm_sp"-> LOD
+"scr_ex1_plane_exp_sp"-> LOD
+"scr_ex1_cargo_engine_trail"-> LOD
+"scr_ex1_plane_exp"
+"scr_ex1_cargo_engine_burst"-> LOD
+"scr_ex1_dust_impact"
+"scr_ex1_heatseeker"-> LOD
+"scr_ex1_cargo_debris"-> LOD
+"scr_ex1_moving_cloud"
+"cs_ex1_sparking_wires_sm"-> LOD
+"scr_ex1_water_exp_sp"-> LOD
+"cs_ex1_cargo_fire"-> fade, LOD

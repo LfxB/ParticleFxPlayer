@@ -1,0 +1,2 @@
+"ent_ray_finale1_liquid_petrol"-> spread, LOD
+"ent_ray_finale1_liquid_nitro"-> spread, LOD

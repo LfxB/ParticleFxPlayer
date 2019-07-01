@@ -1,0 +1,5 @@
+"scr_trev_puke"-> LOD
+"scr_trev_puke_splash_grd"
+"scr_puke_in_car"-> LOD
+"scr_fam_door_smoke"
+"scr_fam_bong_smoke"-> smoke, LOD

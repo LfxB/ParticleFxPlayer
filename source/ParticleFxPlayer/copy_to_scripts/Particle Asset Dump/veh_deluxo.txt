@@ -1,0 +1,7 @@
+"veh_xm_deluxo_turbulance_water"-> speed, distance
+"veh_xm_deluxo_turbulance_default"-> speed, distance
+"veh_xm_deluxo_glide_haze"-> LOD
+"veh_xm_deluxo_engine_glow"-> LOD, throttle
+"veh_xm_deluxo_turbulance_dirt"-> speed, distance
+"veh_xm_deluxo_turbulance_foliage"-> speed, distance
+"veh_xm_deluxo_turbulance_sand"-> speed, distance

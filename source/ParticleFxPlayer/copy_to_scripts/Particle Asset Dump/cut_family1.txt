@@ -1,0 +1,9 @@
+"cs_cig_smoke_stub_out"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"cs_fam6_hair_snip"-> LOD
+"cs_mich1_lighter_flame"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"cs_fam1_bourbon_pour"-> LOD
+"cs_mich1_lighter_sparks"
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

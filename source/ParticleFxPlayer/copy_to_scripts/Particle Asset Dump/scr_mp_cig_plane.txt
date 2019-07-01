@@ -1,0 +1,5 @@
+"ent_anim_lighter_sparks_plane" 
+"ent_anim_cig_exhale_mth_plane"-> LOD, speed_plane
+"ent_anim_lighter_flame_plane"-> LOD, Inhale
+"ent_anim_cig_smoke_plane"-> LOD, smoke_fade, plane_speed, light_intensity
+"ent_anim_cig_exhale_nse_plane"-> LOD

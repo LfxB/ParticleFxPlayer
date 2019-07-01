@@ -1,0 +1,8 @@
+"scr_clown_death"-> LOD
+"eject_clown"-> LOD
+"scr_exp_clown"
+"scr_clown_appears"-> LOD
+"sp_clown_appear_trails"
+"scr_exp_clown_trails"
+"scr_clown_bul"
+"muz_clown"-> LOD

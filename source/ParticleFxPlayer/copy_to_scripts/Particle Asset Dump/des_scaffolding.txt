@@ -1,0 +1,7 @@
+"ent_ray_scaf_explosion"-> LOD
+"ent_ray_fam3_dust_motes"-> LOD
+"ent_ray_scaf_spark_bursts"
+"exp_grd_petrol_pump_spawn"-> LOD
+"ent_ray_scaf_dust_clouds"
+"ent_ray_scaf_wood_frags"
+"ent_ray_scaf_fire_trails"

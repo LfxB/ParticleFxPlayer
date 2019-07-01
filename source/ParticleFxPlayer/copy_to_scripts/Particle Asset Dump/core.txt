@@ -1,0 +1,927 @@
+"bul_gravel_heli"-> size, LOD
+"ent_dst_concrete_large"-> LOD
+"bul_wood_splinter"-> LOD
+"fire_wrecked_plane_cockpit"-> fade, LOD
+"wheel_fric_water"-> LOD, friction, speed
+"proj_flare_trail"-> LOD
+"exp_grd_grenade_lod"-> LOD
+"ent_amb_fbi_cinder"
+"muz_smoking_barrel_minigun"-> smoke
+"ent_dst_gen_gobstop"-> LOD
+"ent_dst_inflate_ball"-> LOD
+"water_splash_ped_wade"-> speed, spine, LOD, size
+"exp_grd_plane_post"-> LOD
+"ent_ray_paleto_gas_flames"-> LOD
+"eject_stungun"
+"ent_amb_wind_grass_dir"-> LOD, wind
+"ent_amb_steam_pipe_lgt"-> LOD, wind, temp
+"ped_underwater_disturb_dirt"-> LOD, speed
+"water_boat_wash"-> speed, LOD, reverse
+"water_splash_obj_in"-> size, speed_l, speed_d, LOD
+"blood_stab"-> LOD, angle
+"ent_brk_metal_frag"-> LOD
+"bul_water_heli"-> LOD
+"ent_sht_oil"-> LOD
+"bul_decal_water_heli"-> LOD
+"ent_sht_water_tower"-> LOD
+"env_snow_flakes"-> wind, camspeed, LOD
+"bul_hay"-> LOD
+"trail_splash_oil"
+"bul_sand_loose_heli"-> LOD
+"ent_sht_beer_barrel"-> LOD
+"veh_sub_crush"-> LOD
+"ent_anim_paparazzi_flash"-> LOD
+"veh_vent_heli_anh"-> damage, speed, fire
+"exp_grd_petrol_pump"-> LOD
+"ent_ray_meth_fires"-> LOD
+"veh_exhaust_hidden"-> speed, temp, damage, throttle, LOD
+"exp_air_molotov"-> LOD
+"ent_anim_snot_blow"-> LOD
+"water_amph_car_rev"-> keelforce, speed, LOD
+"mel_carmetal"-> LOD
+"bul_concrete"-> LOD
+"ent_anim_cig_exhale_mth_car"-> LOD
+"exp_air_rpg_lod"-> LOD
+"veh_trailer_petrol_spray"-> LOD
+"water_amph_quad_bow"-> keelforce, speed, LOD, shootout
+"env_smoke_fbi"-> smoke
+"water_splash_vehicle"-> LOD, speed
+"blood_shark_attack"-> LOD
+"ent_dst_wood_chunky"-> LOD
+"td_blood_shotgun"-> LOD, angle
+"exp_grd_grenade_smoke"-> LOD, radius
+"ent_dst_elec_fire_sp"-> LOD
+"ped_foot_decal_oil"-> LOD, speed
+"fire_wrecked_train"-> fade, LOD
+"exp_hydrant"-> LOD, collision
+"ent_amb_wind_leaves"-> LOD, wind
+"ent_amb_wind_litter_swirl"-> LOD, wind
+"wheel_fric_hard_dusty_Bike"-> groundspeed, LOD
+"ent_amb_tap_drip"
+"exp_air_grenade_lod"-> LOD
+"water_splash_sub_wade"-> size, speed_v, speed_r, front, back
+"ped_foot_decal_mud"-> LOD, speed
+"water_splash_plane_in"-> size, speed_l, speed_d, LOD
+"ent_amb_trev1_trailer_sp_s"-> size, speed_v, speed_r, front, back
+"td_blood_throat"-> LOD, angle
+"blood_melee_punch"-> LOD
+"wheel_fric_sandWet_Bike"-> LOD, groundspeed, wheelangle
+"ent_dst_polystyrene"-> LOD
+"exp_air_molotov_lod"-> LOD
+"blood_exit"-> LOD, angle
+"eject_minigun"-> LOD
+"wheel_fric_grass"-> groundspeed, wet, speed, LOD
+"fire_wheel_bike"-> LOD, speed, timer
+"fire_petroltank_car"-> speed, LOD
+"ent_amb_water_splash_wide"-> LOD
+"veh_backfire"-> damage, banger
+"weap_hvy_turbulance_water"-> distance
+"ent_amb_leaves_pine"-> LOD, wind
+"ent_amb_fountain_double"-> LOD
+"ent_amb_exhaust_thin"-> LOD
+"ent_dst_inflate_ring"-> LOD
+"eject_auto"-> LOD
+"bang_concrete"-> impulse, velocity, vehicle
+"ent_amb_wind_leaves_dir"-> LOD, wind
+"ent_amb_rapid_dir_splash_wide"-> LOD
+"fire_petroltank_car_bullet"-> speed, LOD
+"muz_pistol_silencer"-> LOD
+"ent_sht_gloopy_liquid"-> LOD
+"ent_sht_petrol"-> LOD
+"ent_ray_ch2_farm_resi_dble"
+"blood_chopper"-> LOD, angle
+"ent_amb_elec_crackle"-> LOD
+"ent_dst_gen_paper"-> LOD
+"ent_ray_train_water_wash"-> LOD
+"ent_sht_flame"-> LOD
+"ent_anim_cig_exhale_nse"-> LOD
+"exp_grd_plane_sp"-> LOD
+"veh_vent_rc"-> damage, speed, fire, LOD
+"veh_vent_heli_skylift"-> damage, speed, fire
+"ent_amb_fbi_smoulder_lg"-> LOD
+"ent_amb_fbi_fire_beam"-> LOD
+"ent_sht_bush_foliage"-> LOD
+"ped_foot_woodchips"-> LOD, speed
+"ent_dst_sweet_boxes"-> LOD
+"ped_foot_sand_deep"-> LOD, speed
+"ped_foot_gravel"-> LOD, size, speed
+"ent_dst_cig_packets"-> LOD
+"ent_amb_wind_litter_dust_dir"-> LOD, wind
+"ent_dst_wood_splinter"-> LOD
+"bul_gravel"-> size, LOD
+"water_amph_prop"-> forward, LOD, backward, shootout
+"ent_brk_concrete"-> LOD
+"ent_sht_steam"-> LOD
+"ent_amb_steam_prison"-> LOD, wind, temp
+"water_splash_plane_trail"-> size, speed
+"ent_amb_water_drips_spawned"
+"veh_exhaust_heli_misfire"
+"wheel_fric_sand_LOD"-> groundspeed
+"exp_air_rpg_plane"-> LOD
+"water_jetski_bow1"-> keelforce, speed, LOD, shootout
+"proj_missile_trail"-> LOD
+"fire_petroltank_heli"-> speed, LOD
+"exp_grd_plane"-> LOD, radius
+"ent_amb_water_drips_lg"-> LOD
+"ent_amb_smoke_gaswork"-> LOD
+"proj_flare_fuse_fp"-> LOD
+"ent_amb_smoke_chicken"-> LOD
+"water_jetski_entry2"-> keelforce, speed, LOD, shootout
+"bang_mud"-> LOD, impulse, velocity
+"exp_air_rpg_plane_sp"-> LOD
+"water_boat_entry"-> speed, LOD
+"fire_petrol_one"-> strength, dist, fadein
+"ent_amb_cold_air_floor"-> LOD
+"ent_col_tree_oranges"-> impetus, LOD
+"ent_amb_fbi_smoke_land_lt"-> LOD
+"ent_anim_cig_smoke"-> LOD
+"ent_amb_fbi_fire_door"-> LOD
+"fire_petroltank_truck"-> speed, LOD
+"veh_vent_heli_frogger"-> damage, speed, fire, LOD
+"ent_amb_wind_litter_dir"-> LOD, wind
+"bul_stungun_metal"-> LOD
+"veh_respray_smoke"-> LOD
+"ent_amb_foundry_molten_pour"-> LOD
+"blood_stab_uw"-> LOD
+"veh_downwash"-> distance, speed, downforce, angle, LOD
+"water_amph_quad_rev"-> keelforce, speed, LOD
+"ent_brk_sparking_wires"-> LOD
+"water_amph_car_bow"-> keelforce, speed, LOD, shootout
+"veh_panel_open_car"-> damage, speed, panel, LOD, fire
+"ent_amb_fountain_rodeo"-> LOD
+"wheel_spin_gravel"-> spin, LOD, friction
+"ent_amb_fbi_smoke_linger_hvy"-> LOD
+"ent_amb_torch_fire"
+"ent_anim_leaf_blower"
+"ent_ray_shipwreck_oil"-> LOD
+"sp_petrolcan_splash"-> LOD
+"ped_parachute_open"-> LOD
+"ent_amb_trop_fish_swarm_angel"-> LOD
+"ent_anim_street_sweep"
+"wheel_fric_grass_bike"-> groundspeed, wet, speed, LOD
+"water_boat_rev"-> keelforce, speed, LOD
+"ent_ray_shipwreck_bubbles"-> LOD
+"bang_wood"-> LOD, velocity, impluse, vehicle
+"proj_tank_trail"
+"bul_glass"-> LOD
+"water_splash_bike_wade"-> size, speed_v, speed_r, front, back
+"ent_amb_wind_hay"-> LOD, wind
+"glass_smash"-> LOD, force
+"ent_amb_tnl_bubbles_sml"
+"ent_amb_sprinkler_crop"-> LOD
+"fire_wrecked_tank"-> fade, LOD
+"ent_ray_pro1_water_drip"-> LOD
+"lens_bug_dirt"-> level, angle, speed
+"liquid_splash_oil"
+"ent_amb_smoke_scrap"-> LOD
+"blood_animal_maul"-> LOD
+"bang_blood"-> LOD, impulse, velocity
+"ent_amb_water_roof_drips_thin"-> LOD
+"ent_ray_ch2_farm_fire_u_l"-> LOD
+"ent_amb_wind_litter_dust"-> LOD, wind
+"ent_brk_gate_smoke"-> LOD
+"ent_amb_fbi_smoke_door_med"-> LOD
+"veh_prop_sub"-> LOD, forward, depth, backward
+"bul_mud_heli"-> LOD
+"bul_cardboard"-> LOD
+"bul_carmetal_heli"-> LOD
+"ped_foot_dirt_dry"-> LOD, speed
+"fire_petroltank_plane"-> speed, LOD
+"ent_col_rocks"-> LOD
+"muz_assault_rifle"-> LOD
+"water_splash_veh_out"-> size, speed
+"weap_veh_turbulance_sand"-> distance
+"ent_amb_wind_rand_litter"-> LOD, wind
+"ent_dst_gen_water_spray"-> LOD
+"ent_amb_butterflys_swarm"-> LOD
+"ent_amb_steam_vent_open_lgt"-> LOD, wind, temp
+"veh_vent_heli_cargobob"-> damage, speed, fire
+"veh_light_red"-> LOD
+"water_boat_bow"-> keelforce, speed, LOD, shootout
+"env_interior_dusty"-> smoke
+"ent_amb_rapid_area_spray_hvy"-> LOD
+"bul_decal_oil"-> LOD
+"trail_splash_blood"
+"ent_amb_jazuzzi"-> LOD
+"ped_underwater_disturb_sand"-> LOD, speed
+"ent_dst_gen_food"-> LOD
+"water_boat_prop"-> forward, LOD, backward, shootout
+"ent_anim_dusty_hands"
+"exp_grd_tankshell_lod"-> LOD
+"ent_amb_foundry_fogball"-> LOD
+"bul_glass_mini"-> LOD
+"veh_exhaust_heli_skylift"-> LOD, throttle
+"veh_panel_shut_car"-> damage, speed, reverse, LOD, fire
+"fire_wrecked_heli_cockpit"-> fade, LOD
+"ent_amb_fbi_fire_drip"-> LOD
+"bul_plastic"-> LOD
+"bul_dirt_heli"-> LOD
+"ent_amb_beach_campfire"-> LOD
+"water_splash_obj_trail"-> size, speed
+"exp_grd_sticky_sp"-> LOD
+"veh_panel_shut_truck"-> damage, speed, reverse, fire, LOD
+"ent_ray_finale_vault_haze"-> LOD
+"ent_amb_trop_fish_swarm_col"-> LOD
+"water_amph_car_entry"-> keelforce, speed, LOD, shootout
+"bullet_tracer_railgun"-> LOD
+"ped_blood_pool_water"
+"weap_hvy_turbulance_dirt"-> distance
+"fire_wrecked_car"-> fade, LOD
+"veh_plane_eject"-> LOD
+"ent_ray_prologue_elec_crackle"-> LOD
+"exp_grd_petrol_pump_sp"-> LOD
+"ent_amb_tnl_bubbles_lge"
+"td_blood_stab"-> LOD, angle
+"exp_sht_flame"-> LOD, radius
+"ent_ray_heli_aprtmnt_water"-> LOD
+"veh_exhaust_heli"-> LOD, throttle
+"muz_stungun"-> LOD
+"ent_ray_fam3_dust_motes"-> LOD
+"wheel_fric_sandWet_Tank"-> LOD, groundspeed, wheelangle
+"wheel_decal_slush"-> LOD, groundspeed, wheelangle
+"ent_amb_steam"-> LOD
+"ent_amb_rapid_rock_drips"-> LOD
+"env_wind_debris_countryside"-> wind, camspeed
+"blood_armour_heavy"-> LOD
+"water_splash_ped_out"-> speed, spine, LOD
+"ent_dst_rubbish"-> LOD
+"ent_amb_fbi_falling_debris_sp"-> LOD
+"muz_hunter"-> LOD
+"veh_exhaust_plane_start"
+"muz_buzzard"-> LOD
+"veh_air_turbulance_dirt"-> speed, distance
+"wheel_decal_water_Bike_Deep"-> LOD, groundspeed, wheelangle
+"ent_dst_glass_bottles"-> LOD
+"fire_petrol_two"-> strength, dist, fadein
+"wheel_spin_mud"-> spin, LOD, friction, depth
+"env_cloud"-> cloud, speed
+"exp_grd_boat_lod"-> LOD
+"bul_glass_shotgun"-> LOD
+"water_jetski_prop"-> forward, LOD, backward
+"env_dust_motes_int_recycle"-> LOD, dust
+"ent_amb_sewer_drips_lg"-> LOD
+"ent_amb_smoke_foundry"-> LOD
+"env_dust_devil_urban_sma"
+"bul_rubber_dust"-> LOD
+"exp_grd_plane_lod"-> LOD, radius
+"ent_brk_wood_splinter"-> LOD
+"lens_rain"-> level, angle, speed
+"veh_downwash_sand"-> distance, speed, downforce, angle, LOD
+"wheel_decal_petrol_Bike"-> LOD, groundspeed, wheelangle
+"ent_amb_falling_palm_leaves"-> LOD, wind
+"lens_noir"-> level, angle, speed
+"exp_grd_boat_sp"-> LOD
+"ent_ray_finale1_fire"-> LOD
+"scrape_plastic"-> impulse, velocity, LOD
+"ent_anim_welder"
+"ent_anim_weed_smoke"-> LOD, smoke_fade
+"water_splash_bike_out"-> size, speed
+"veh_exhaust_spacecraft"
+"veh_exhaust_heli_cargobob_misfire"
+"ent_brk_steam_burst"-> LOD
+"env_gunsmoke"-> smoke
+"veh_prop_submersible"-> LOD, forward, depth, backward
+"exp_extinguisher"-> LOD
+"water_boat_entry2"-> keelforce, speed, LOD, force
+"veh_exhaust_plane"-> LOD, throttle
+"water_boat_Tropic_bow"-> keelforce, speed, LOD, shootout
+"water_splash_ped_in"-> speed, spine, LOD
+"bul_leaves"-> LOD
+"ent_amb_fbi_smoke_fogball"-> LOD
+"liquid_splash_blood"
+"weap_veh_turbulance_default"-> distance
+"lens_smoke"-> level
+"env_wind_debris"-> wind, camspeed
+"lens_blaze"-> level
+"exp_air_blimp2_sp"-> LOD
+"env_dust_devil_urban_lrg"
+"exp_water"-> Depth, River, LOD
+"ent_ray_finale_vault_sparks"-> LOD
+"weap_hvy_turbulance_default"-> distance
+"ent_amb_steam_pipe_hvy"-> LOD, wind, temp
+"bul_mud"-> LOD
+"ent_amb_fire_ring"-> LOD
+"ent_ray_pro1_water_splash_spawn"
+"ent_amb_drain_splash"-> LOD
+"ent_amb_exhaust_thick"-> LOD
+"exp_grd_molotov_lod"-> LOD
+"ent_amb_sprinkler_golf"-> LOD
+"ent_brk_tree_trunk_bark"-> LOD
+"ent_amb_rapid_dir_splash_light"-> LOD
+"ent_amb_barrel_fire"-> LOD
+"ped_foot_water"-> LOD, speed
+"eject_auto_fp"-> LOD
+"bul_foam"-> LOD
+"water_splash_ped_bubbles"-> LOD, speed
+"ent_col_bush_leaves"-> LOD
+"exp_grd_rpg_post"-> LOD
+"fire_map_quick"-> strength, LOD, fuel
+"blood_mist"-> LOD
+"ped_foot_dusty"-> LOD, size, speed
+"veh_sm_car_small_backfire"-> damage, banger
+"ent_amb_trop_fish_swarm_lil"-> LOD
+"wtr_rocks_wall_splash"-> speed, rain
+"wheel_fric_sand"-> groundspeed, LOD
+"shotgun_water"-> LOD
+"bul_concrete_heli"-> LOD
+"water_boat_dinghy_bow_mounted"-> keelforce, speed, LOD, shootout
+"ent_amb_fbi_fire_wall_lg"-> LOD
+"ent_amb_foundry_dust"
+"scrape_metal"-> impulse, velocity, LOD, vehicle
+"exp_hydrant_decals_sp"
+"exp_grd_boat_spawn"-> LOD
+"ent_amb_sewer_drips_med"-> LOD
+"fire_petrol_script"-> strength, LOD, fuel, fadein
+"ent_amb_stoner_vent_smoke"-> LOD
+"muz_alternate_star_fp"
+"wheel_spin_leaves"-> spin, LOD, friction
+"ent_anim_bm_water_scp"-> size, speed_l, speed_d
+"ent_sht_molten_liquid"
+"bul_concrete_minigun"-> LOD
+"exp_bird_crap"-> LOD
+"ent_amb_dust_motes"-> LOD
+"ent_sht_paint_cans"-> LOD
+"veh_light_amber"-> LOD
+"ent_dst_paint_cans"-> LOD
+"veh_downwash_foliage"-> distance, speed, downforce, angle, LOD
+"exp_grd_train"-> LOD
+"weap_veh_turbulance_foliage"-> distance, LOD
+"liquid_splash_gloopy"
+"exp_air_blimp_sp"-> LOD
+"env_interior_chickenfarm"-> smoke
+"exp_sht_steam"-> LOD, radius
+"ent_amb_falling_leaves_m"-> LOD, wind
+"veh_plane_damage"-> LOD, speed
+"blood_nose"-> LOD
+"muz_smoking_barrel"-> smoke
+"scrape_mud"-> LOD, velocity, impulse
+"water_boat_Suntrap_bow"-> keelforce, speed, LOD, shootout
+"ent_sht_water"-> LOD
+"ent_ray_heli_aprtmnt_l_fire"-> LOD
+"fire_wrecked_truck_vent"-> fade, LOD
+"proj_missile_underwater"-> LOD
+"ent_col_palm_leaves"-> impulse, LOD
+"wheel_spin_water_deep"-> spin, LOD, friction, depth
+"wheel_spin_blood"-> spin, LOD, friction
+"ent_dst_gen_liquid_burst"-> LOD
+"ent_dst_wood_planks"-> LOD
+"ent_amb_steam_vent_round"-> LOD, wind, temp
+"ent_brk_tree_leaves"-> LOD
+"scrape_veg"-> impulse, velocity, LOD, vehicle
+"ent_amb_moths_swarm"-> LOD
+"exp_air_rpg_plane_lod"-> LOD
+"wheel_fric_gravel"-> groundspeed, wet, speed, LOD
+"td_blood_hatchet"-> LOD
+"ent_amb_peeing"-> LOD
+"bul_decal_blood"-> LOD
+"exp_air_rpg_sp"-> LOD
+"wheel_decal_water_Bike"-> LOD, groundspeed, wheelangle, wet
+"bul_grass"-> LOD
+"ent_sht_cactus"-> LOD
+"blood_entry_head_sniper"-> LOD, angle
+"weap_veh_turbulance_dirt"
+"veh_oil_slick"
+"ped_scrape_sand_underwater"-> velocity
+"ped_foot_decal_water"-> LOD, speed
+"lens_snow"-> level, angle, speed
+"td_blood_hatchet_back"-> LOD
+"ent_amb_sprinkler_city_sml"-> LOD
+"ent_amb_insect_plane"-> LOD
+"water_boat_jetmax_bow"-> keelforce, speed, LOD, shootout
+"exp_grd_flare"-> LOD, radius
+"wheel_fric_hard"-> friction, wet, speed, LOD, spin
+"proj_flare_fuse"-> LOD
+"muz_pistol_fp"-> LOD
+"veh_exhaust_heli_cargobob"-> LOD, throttle
+"bul_wood_splinter_heli"-> LOD
+"ent_amb_sewer_drips_spawned_lg"
+"ent_ray_heli_aprtmnt_s_fire"-> LOD
+"ent_amb_rapid_area_spray"-> LOD
+"wheel_fric_water_Bike"-> LOD, friction, speed
+"sp_fbi_fire_drip_trails"-> LOD
+"ent_ray_ch2_farm_fire_dble"-> LOD
+"veh_vent_boat"-> damage, speed, fire, LOD
+"exp_grd_molotov"-> LOD
+"veh_exhaust_titan"-> LOD, throttle
+"ent_amb_fbi_smoulder_sm"-> LOD
+"ent_dst_gen_plastic_cont"-> LOD
+"exp_grd_vehicle_lod"-> LOD
+"wheel_spin_grass"-> spin, LOD, friction, wet
+"lens_water_run"-> level, angle, speed
+"ent_dst_office_paper"-> LOD
+"wheel_fric_leaves_Bike"-> LOD, groundspeed, wheelangle
+"ent_amb_wind_grass"-> LOD, wind
+"liquid_splash_petrol"
+"veh_train_sparks"-> LOD, squeal
+"ent_dst_gen_cardboard"-> LOD
+"water_splash_whale_wade"-> speed, spine, LOD, size
+"ent_amb_sparking_wires"-> LOD
+"scrape_sand_underwater"-> LOD
+"ent_dst_plant_leaves"-> LOD
+"ent_brk_lamppost_base"
+"ent_amb_waterfall_splash_p"-> LOD
+"liquid_splash_pee"
+"wheel_fric_gravel_LOD"-> groundspeed
+"muz_smoking_barrel_shotgun"-> smoke
+"bul_paper"-> LOD
+"muz_rpg"-> LOD
+"ped_foot_gravel_deep"-> LOD, speed
+"bul_brick"-> LOD
+"mel_concrete"-> LOD
+"ent_ray_heli_aprtmnt_embers"
+"bul_glass_tv"-> LOD
+"wheel_decal_mud"-> LOD, groundspeed, wheelangle, depth
+"liquid_splash_paint"
+"ent_amb_fbi_light_door"-> LOD
+"muz_smoking_barrel_fp"-> smoke
+"veh_exhaust_start_bike"
+"water_splash_veh_in"-> size, speed_l, speed_d, LOD
+"fire_wrecked_plane"-> fade, LOD
+"ent_ray_tanker_petrol_spray"-> LOD
+"ent_amb_wind_hay_dir"-> LOD, wind
+"ent_amb_candle_flame"-> LOD
+"muz_assault_rifle_fp"-> LOD
+"ped_foot_chickenfarm"-> LOD, size, speed
+"exp_grd_grenade"-> LOD
+"ent_amb_wfall_splash_sml"-> LOD
+"exp_grd_vehicle_spawn"-> LOD
+"ent_dst_electrical"-> LOD
+"bul_carmetal"-> LOD
+"veh_slipstream"-> slipstream
+"exp_grd_boat"-> LOD
+"ent_amb_leaves_oak_g"-> LOD, wind
+"wheel_fric_hard_dusty_Tank"-> groundspeed, LOD
+"water_jetski_bow1_mounted"-> keelforce, speed, LOD, shootout
+"veh_vent_plane_duster"-> damage, speed, fire, LOD
+"fire_wrecked_truck"-> fade, LOD
+"ent_amb_wind_tree_leaves"-> LOD, wind
+"water_cannon_jet"-> LOD, speed
+"ent_ray_ch2_farm_smoke_dble"
+"ent_ray_heli_aprtmnt_exp"
+"env_dust_devil_rural_sma"
+"ent_dst_concrete"-> LOD
+"ent_ray_heli_aprtmnt_sprk_wrs"-> LOD
+"env_wind_debris_city"-> wind, camspeed
+"ent_sht_blood"-> LOD
+"exp_grd_propane"-> LOD
+"veh_vent_plane_lazer"-> damage, speed, fire, LOD
+"fire_wrecked_bike"-> fade, LOD
+"veh_panel_shut_tank"-> damage, speed, reverse, fire, LOD
+"water_boat_exit"-> LOD
+"bang_sand_underwater"-> impulse, velocity, LOD
+"ent_sht_paper_bails"-> LOD
+"ent_amb_smoke_general"-> LOD
+"blood_entry_shotgun"-> LOD, angle
+"ent_dst_upholstery"-> LOD
+"veh_exhaust_velum"-> LOD, throttle
+"ent_amb_elec_crackle_sp"-> LOD
+"_fog_plane"
+"exp_grd_sticky_lod"-> LOD
+"blood_entry_sniper"-> LOD, angle
+"wheel_decal_mud_Bike"-> LOD, groundspeed, wheelangle, depth
+"fire_object"-> strength, LOD, fuel
+"proj_disturb_dust"-> LOD
+"bullet_shotgun_tracer"-> LOD
+"ent_ray_ch2_farm_fire_l_l_l"-> LOD
+"ent_amb_foundry_heat_haze"-> LOD
+"ent_dst_donuts"-> LOD
+"wheel_fric_sandWet_LOD"-> groundspeed
+"water_splash_sub_in"-> size, speed_l, speed_d, LOD
+"veh_wind_litter_dir"-> LOD, wind, speed
+"ent_amb_cig_smoke_linger"-> LOD
+"ent_dst_hobo_trolley"-> LOD
+"shark_underwater_trails"-> LOD, speed, depth, length
+"ent_anim_pneumatic_drill"
+"ped_breath_water"-> LOD, depth, speed
+"bul_chickenfarm"-> LOD
+"proj_grenade_trail"-> LOD
+"exp_grd_vehicle_post"-> LOD
+"weap_hvy_turbulance_sand"-> distance
+"ent_col_electrical"-> LOD
+"veh_exhaust_vulkan"-> LOD, throttle
+"veh_plane_propeller_destroy"-> LOD
+"scr_fbi_falling_dust"
+"proj_grenade_smoke"-> LOD
+"scr_agency3b_sprinkler_off"-> LOD
+"ent_brk_blood"-> LOD
+"exp_grd_bzgas_smoke"-> radius
+"ent_sht_petrol_fire"-> speed, LOD
+"ent_amb_water_drips_spawned_lg"
+"ent_amb_abattoir_saw_blood"-> LOD
+"bul_decal_water"-> LOD
+"veh_exhaust_truck_rig"-> speed, temp, damage, throttle, LOD
+"ent_amb_snow_mist_upper"-> LOD
+"wheel_decal_water_Tank"-> LOD, groundspeed, wheelangle
+"ent_amb_fbi_falling_debris"-> LOD
+"ent_dst_elec_fire"-> LOD
+"env_dust_motes_int_hvy"-> LOD, dust
+"exp_grd_petrol_pump_spawn"-> LOD
+"fire_wrecked_car_vent"-> fade, LOD
+"water_splash_shark_wade"-> speed, spine, LOD, size
+"veh_panel_shut_feltzer2010"-> damage, speed, reverse, fire, LOD
+"wheel_fric_gravel_Bike"-> groundspeed, wet, speed, LOD
+"ent_dst_newspaper"-> LOD
+"ent_brk_wood_planks"-> LOD
+"mel_glass"-> LOD
+"blood_headshot"-> LOD, angle
+"ent_dst_wet_sand"-> LOD
+"blood_throat"-> LOD, angle
+"fire_wrecked_boat"-> fade, LOD
+"trail_splash_water"
+"ent_anim_bm_water_mist"
+"ent_amb_fly_zapped_spawned"-> LOD
+"exp_grd_rpg_sp"-> LOD
+"env_bar_haze"-> smoke
+"exp_grd_sticky"-> LOD
+"veh_petrol_leak_bullet"-> damage, speed
+"sp_ent_sparking_wires"-> LOD
+"exp_grd_gas_can"-> LOD
+"ent_amb_sewer_drips_spawned"
+"ent_amb_sprinkler_city"-> LOD
+"water_splash_sub_out"-> size, speed
+"ent_amb_fbi_smoke_ramp_lt"-> LOD
+"veh_exhaust_tug"-> speed, temp, damage, throttle, LOD
+"glass_windscreen"-> LOD, force
+"ent_dst_elec_crackle"-> LOD
+"proj_molotov_flame_fp"-> speed, LOD
+"eject_heli_gun"-> LOD
+"ent_sht_extinguisher"-> LOD
+"ent_amb_stoner_dust_drop"
+"ent_anim_gardener_plant"
+"wheel_fric_hard_tank"-> friction, wet, speed, LOD
+"veh_panel_open_carHK"-> damage, speed, panel, LOD, fire
+"water_splash_animal_wade"-> speed, spine, LOD, size
+"fire_wheel"-> LOD, speed, timer
+"veh_light_red_trail"-> speed
+"ent_amb_falling_cherry_bloss"-> LOD
+"ped_foot_decal_petrol"-> LOD, speed
+"ent_dst_inflatable"-> LOD
+"bang_carmetal"-> impulse, velocity, LOD, vehicle
+"wtr_sea_pole_splash"-> speed
+"bang_blood_car"-> LOD, impulse, velocity
+"ent_amb_vent_haze_sm"-> LOD, wind, temp
+"water_splash_ped"-> LOD, speed
+"ent_amb_int_fireplace_sml"-> LOD
+"muz_tank"-> LOD
+"ent_amb_pro_elec_fires"
+"wheel_decal_oil_Bike"-> LOD, groundspeed, wheelangle
+"veh_wingtip"-> speed
+"ent_sht_cardboard"
+"exp_grd_vehicle_sp"-> LOD
+"proj_laser_player"-> LOD
+"ent_amb_river_splash_gen"-> LOD
+"exp_grd_tankshell"-> LOD
+"ent_amb_foundry_steam"
+"water_jetski_rev"-> keelforce, speed, LOD
+"ped_parachute_trail"
+"env_interior_foundry"-> smoke
+"ent_amb_water_drips_med"-> LOD
+"rim_fric_hard"-> friction, wet, speed, LOD
+"wheel_fric_grass_LOD"-> groundspeed
+"ent_brk_coins"-> LOD
+"ent_amb_rapid_dir_spray"-> LOD
+"veh_sub_dive"-> LOD, depth, speed
+"ent_amb_fbi_fire_fogball"-> LOD
+"ent_anim_animal_graze"-> LOD
+"exp_air_blimp"-> LOD
+"muz_minigun_alt"-> LOD
+"ent_amb_stoner_falling_wchips"-> LOD
+"wheel_decal_water_deep"-> LOD, groundspeed, wheelangle
+"exp_grd_rpg_plane_sp"-> LOD
+"veh_exhaust_truck"-> speed, temp, damage, throttle, LOD
+"blood_mist_prop"-> LOD
+"env_wind_debris_woodland"-> wind, camspeed
+"bullet_tracer_jet"-> LOD
+"ent_amb_leaves_ficus_g"-> LOD, wind
+"veh_overturned_exhaust"-> LOD
+"blood_entry"-> LOD, angle
+"eject_shotgun"-> LOD
+"muz_alternate_star"-> LOD
+"sp_fire_trail_heli"-> LOD
+"ent_brk_uprooted"-> LOD
+"ent_amb_foundry_steam_spawn"-> LOD
+"ent_amb_int_waterfall_splash"-> LOD
+"exp_grd_barrel"
+"exp_grd_vehicle"-> LOD
+"ent_amb_wind_litter"-> LOD, wind
+"muz_shotgun"-> LOD
+"ent_ray_heli_aprtmnt_h_fire"-> LOD
+"veh_downwash_dirt"-> distance, speed, downforce, angle, LOD
+"water_jetski_exit"-> LOD
+"exp_grd_rpg_lod"-> LOD
+"weap_petrol_can"-> LOD
+"fire_ped_smoulder"-> LOD
+"ent_amb_fly_zapped"
+"veh_air_debris"-> LOD, speed
+"ent_sht_dust"-> LOD
+"veh_panel_open_truck"-> damage, speed, panel, fire, LOD
+"ent_amb_fbi_fire_dub_door"-> LOD
+"wheel_fric_sand_Bike"-> LOD, groundspeed, wheelangle
+"wheel_fric_leaves"-> friction, speed, LOD
+"env_dust_devil_rural_lrg"
+"bullet_tracer"-> LOD
+"ent_dst_chick_carcass"-> LOD
+"ent_amb_sewer_drips_sm"-> LOD
+"wheel_burnout"-> friction, speed, temp, LOD, bike
+"scrape_sand"-> velocity, Impulse, Vehicle
+"ent_amb_cockroach_swarm"-> LOD
+"ent_amb_generator_smoke"-> LOD
+"muz_laser"-> LOD
+"env_gunsmoke_paper_factory"-> smoke
+"veh_vent_heli"-> damage, speed, fire
+"ent_amb_river_mist_gen"-> LOD
+"ent_amb_insect_swarm"-> LOD
+"bul_tarmac_heli"-> LOD
+"muz_smoking_barrel_rocket"-> smoke
+"ent_amb_fire_gaswork"-> LOD
+"ent_amb_cluckb_steam"-> LOD
+"water_amph_quad_entry"-> keelforce, speed, LOD, shootout
+"ent_col_tree_leaves"-> impulse, LOD
+"ent_amb_stoner_woodchip_drop"-> LOD
+"water_splash_veh_trail"-> size, speed
+"ent_dst_inflate_ball_clr"-> LOD
+"exp_grd_gren_sp"-> LOD
+"wheel_fric_leaves_Tank"-> LOD, groundspeed, wheelangle
+"weap_extinguisher"
+"env_wind_debris_desert"-> wind, camspeed
+"ent_brk_banknotes"-> LOD
+"ent_amb_fountain_mansion2"-> LOD
+"ent_amb_stoner_rubble_drop"-> LOD
+"ped_foot_bushes"-> LOD, speed
+"ent_amb_sol1_plane_wreck"-> LOD
+"wheel_fric_mud_Bike"-> LOD, speed, friction
+"veh_wheel_burst"-> speed, spin, fire
+"fire_vehicle"-> strength, LOD, fuel
+"ent_anim_cig_exhale_mth"-> LOD
+"ped_water_drips"-> LOD, inwater
+"ent_ray_paleto_gas_plume_amb_L"-> LOD
+"eject_pistol"-> LOD
+"glass_side_window_PC"-> LOD
+"water_splash_plane_wade"-> size, speed_v, speed_r, front, back
+"ent_amb_cockroaches"-> LOD
+"ped_bang_sand_underwater"-> impulse, LOD, Vel
+"veh_exhaust_plane_misfire"
+"ent_dst_pineapple"-> LOD
+"ped_foot_water_puddle"-> LOD, speed
+"ent_amb_bubble_stream"-> LOD, depth, speed
+"ped_wade_mud"-> speed, LOD, depth
+"ent_dst_metal_frag"-> LOD
+"water_splash_bicycle_out"-> size, speed
+"ent_amb_fbi_live_wires"-> LOD
+"veh_air_turbulance_sand"-> speed, distance
+"eject_shotgun_fp"-> LOD
+"exp_grd_plane_spawn"-> LOD
+"mp_parachute_smoke"-> LOD
+"_fog_foundry"-> LOD
+"ent_dst_mail"-> LOD
+"weap_hvy_turbulance_foliage"-> distance, LOD
+"ent_amb_abattoir_carcass"-> LOD
+"ent_anim_hen_flee"-> LOD
+"ent_col_falling_snow"-> impulse, LOD
+"exp_sht_extinguisher"-> LOD, radius
+"ent_dst_crispbags"-> LOD
+"wheel_spin_sand"-> spin, LOD, friction, wet
+"water_boat_LOD"-> speed
+"ent_sht_beer_containers"-> LOD
+"veh_exhaust_start"
+"ent_amb_wfall_splash_lg"-> LOD
+"ent_amb_fbi_smoke_creep"-> LOD
+"bang_metal"-> impulse, velocity, LOD
+"fire_ped_limb"-> strength, LOD, speed
+"water_amph_quad_bow_mounted"-> keelforce, speed, LOD, shootout
+"ent_amb_water_drips_dam_med"-> LOD
+"veh_air_turbulance_foliage"-> speed, distance
+"ent_amb_trop_fish_swarm"-> LOD
+"ent_ray_heli_aprtmnt_s_fire_sq"-> LOD
+"ent_anim_cig_exhale_nse_car"-> LOD
+"veh_exhaust_misfire"
+"bullet_tracer_mg"-> LOD
+"wheel_fric_gravel_Tank"-> groundspeed, wet, speed, LOD
+"ent_amb_fbi_smoke_door_lt"-> LOD
+"proj_molotov_trail"-> speed, LOD
+"veh_vent_plane"-> damage, speed, fire, LOD
+"veh_light_clear"-> LOD
+"scrape_dirt_dry"-> velocity, Impulse, Vehicle
+"ent_amb_fbi_smoke_land_hvy"-> LOD
+"fire_wrecked_rc"-> fade, LOD
+"wheel_decal_petrol"-> LOD, groundspeed, wheelangle
+"ent_ray_paleto_gas_plume_amb"-> LOD
+"water_cannon_spray"-> dist, angle, LOD
+"ent_amb_cold_air_vent"-> LOD
+"bul_stungun"-> LOD
+"wheel_decal_sand_deep"-> LOD, groundspeed, wheelangle, depth
+"blood_mouth"-> LOD
+"veh_exhaust_cuban800"-> LOD, throttle
+"proj_laser_enemy"-> LOD
+"water_splash_plane_out"-> size, speed
+"ent_amb_wfall_splash_med"-> LOD
+"ent_amb_falling_leaves_l"-> LOD, wind
+"fire_wrecked_heli"-> fade, LOD
+"ent_brk_cactus"-> LOD
+"liquid_splash_water"
+"bang_dirt_dry"-> impulse, velocity, vehicle
+"proj_rpg_trail"-> LOD
+"water_heli_blades"-> LOD
+"bul_plaster_brittle"-> LOD
+"env_wind_sand_dune"-> wind, camspeed
+"ent_amb_fbi_fire_lg"-> LOD
+"fire_wrecked_tank_cockpit"-> fade, LOD
+"eject_sniper_amrifle"-> LOD
+"bul_decal_mud"-> LOD
+"bul_brick_heli"-> LOD
+"scrape_blood_car"-> LOD
+"wheel_spin_water"-> spin, LOD, friction
+"ent_amb_water_drips_sm"-> LOD
+"ent_amb_fbi_smoke_stair_gather"-> LOD
+"wheel_decal_oil"-> LOD, groundspeed, wheelangle
+"veh_faggio_exhaust"-> speed, temp, damage, throttle, LOD
+"td_blood_melee_blunt"-> LOD, angle
+"wheel_fric_mud"-> LOD, speed, friction
+"lens_test"-> level, angle, speed
+"ent_amb_floating_debris"-> LOD
+"ent_col_gen_tree_dust"-> LOD
+"weap_heist_flare_trail"-> LOD
+"bang_hydraulics"-> LOD
+"exp_air_plane_rpg_spawn"-> LOD
+"ent_ray_heli_aprtmnt_silt"-> LOD
+"ent_amb_smoke_foundry_white"-> LOD
+"wheel_decal_blood_Bike"-> LOD, groundspeed, wheelangle
+"wheel_decal_mud_Tank"-> LOD, groundspeed, wheelangle
+"ent_amb_trev1_trailer_sp_f"-> LOD
+"ent_amb_dry_ice_vent"-> LOD
+"sp_foundry_sparks"
+"ent_amb_waterfall_pool"-> LOD
+"muz_smg"-> LOD
+"eject_pistol_fp"-> LOD
+"scr_fbi_ground_debris"-> LOD
+"env_stripclub_haze"-> smoke
+"blood_stungun"-> LOD
+"veh_wingtip_cargo"-> speed
+"bul_bushes"-> LOD
+"bang_plastic"-> impulse, velocity, vehicle
+"ent_amb_stoner_falling_debris"-> LOD
+"ent_sht_extinguisher_water"-> LOD
+"fire_map"-> strength, LOD, fuel
+"ent_amb_fountain_pour"-> LOD
+"weap_veh_turbulance_water"
+"weap_smoke_grenade"-> smoke, LOD
+"water_splash_generic"-> speed, LOD
+"scrape_blood"-> LOD
+"ent_amb_moths_cupboard"-> LOD
+"bul_glass_heli"-> LOD
+"ent_amb_smoke_factory_white"-> LOD
+"muz_railgun"-> LOD
+"exp_air_rpg"-> LOD
+"eject_sniper"-> LOD
+"veh_vent_plane_titan"-> damage, speed, fire, LOD
+"ent_sht_rubbish"
+"water_jetmax_exit"-> LOD
+"wheel_fric_sand_Tank"-> LOD, groundspeed, wheelangle
+"ent_amb_trevor_tap_drip"
+"veh_exhaust_cargo"-> LOD, throttle
+"td_blood_pistol"-> LOD, angle
+"ent_amb_fbi_smoke_ramp_hvy"-> LOD
+"veh_debris_trail"-> speed, LOD
+"wtr_rocks_rnd_splash"-> speed
+"ent_ray_fin_petrol_splash"
+"veh_exhaust_trailer_chimney"-> LOD
+"fire_wrecked_bus"-> fade, LOD
+"veh_exhaust_afterburner"-> LOD, throttle
+"ent_amb_fbi_smoke_ramp_med"-> LOD
+"exp_grd_rpg_spawn"-> LOD
+"ent_dst_snow_tombs"-> LOD
+"exp_grd_rpg_plane"-> LOD
+"ent_amb_steam_vent_open_hvy"-> LOD, wind, temp
+"glass_shards"-> LOD
+"ent_sht_telegraph_pole"
+"ent_dst_rocks"-> LOD
+"ent_amb_steam_vent_rnd_hvy"-> LOD, wind, temp
+"ent_amb_fbi_smoke_land_med"-> LOD
+"ent_amb_smoke_factory"-> LOD
+"eject_smg_fp"-> LOD
+"ent_dst_box_noodle"-> LOD
+"ent_amb_wind_litter_dust_swirl"-> LOD, wind
+"exp_air_grenade"-> LOD
+"ent_amb_acid_bath"-> LOD
+"blood_melee_blunt"-> LOD, angle
+"fire_petroltank_boat"-> speed, LOD
+"fire_ped_body"-> strength, LOD, speed
+"blood_armour"-> LOD
+"ent_dst_bread"-> LOD
+"water_splash_veh_wade"-> size, speed_v, speed_r, front, back
+"ent_amb_fbi_door_smoke"
+"ent_amb_fbi_smoke_door_hvy"-> LOD
+"ped_wade_sand"-> speed, LOD, depth
+"exp_air_blimp2"-> LOD
+"veh_vent_bike"-> damage, speed, fire, LOD
+"veh_rotor_break_tail"-> LOD
+"scrape_concrete"-> impulse, velocity, LOD
+"muz_pistol"-> LOD
+"water_boat_dinghy_bow"-> keelforce, speed, LOD, shootout
+"ent_brk_sparking_wires_sp"
+"ped_breath"-> speed, temp, rate, LOD
+"ent_amb_stoner_landing"-> LOD
+"ped_underwater_trails"-> LOD, speed, depth, length
+"bul_sand_loose"-> LOD
+"ped_foot_decal_blood"-> LOD, speed
+"water_splash_bicycle_in"-> size, speed_l, speed_d
+"lens_water"-> level, angle, speed
+"veh_wheel_puncture"-> LOD, speed
+"veh_wheel_puncture_rc"-> LOD, speed
+"wheel_spin_sandWet"-> spin, LOD, friction, wet
+"ent_amb_fbi_fire_sm"-> LOD
+"water_splash_bike_trail"-> size, speed
+"ped_breath_scuba"-> LOD, depth, speed
+"ent_ray_paleto_gas_window_fire"-> LOD
+"water_splash_bicycle_trail"-> size, speed
+"blood_fall"-> LOD
+"env_wind_debris_mountain"-> wind, camspeed
+"ent_dst_pumpkin"-> LOD
+"ent_amb_water_roof_pour_long"-> LOD
+"sp_fire_trail_plane"-> LOD
+"wheel_fric_dusty_LOD"-> groundspeed
+"ent_amb_waterfall_runoff"-> LOD
+"ent_dst_ceramics"-> LOD
+"wheel_decal_sand_wet_deep"-> LOD, groundspeed, wheelangle, depth
+"veh_sub_leak"-> LOD, damage
+"ent_amb_water_roof_pour"-> LOD
+"ent_dst_egg_mulch"-> LOD
+"wheel_decal_puddle"-> LOD, groundspeed, wheelangle, wet
+"wheel_fric_hard_Bike"-> friction, wet, speed, LOD, spin
+"ent_dst_gen_choc"-> LOD
+"proj_molotov_flame"-> speed, LOD
+"env_smoke_fbi_thin"-> smoke
+"ent_dst_litter"-> LOD
+"water_splash_bicycle_wade"-> size, speed_v, speed_r, front, back
+"scr_agency3b_sprinkler_on"-> LOD
+"water_amph_car_bow_mounted"-> keelforce, speed, LOD, shootout
+"veh_exhaust_boat"-> speed, temp, damage, throttle, LOD
+"veh_air_turbulance_water"-> speed, distance
+"fire_extinguish"-> LOD, strength
+"wheel_fric_hard_dusty"-> groundspeed, LOD
+"ped_blood_drips"-> LOD
+"veh_air_turbulance_default"-> speed, distance
+"ent_anim_blown_radiator"
+"bul_grass_heli"-> LOD
+"ent_amb_fly_swarm"-> LOD
+"exp_grd_rpg"-> LOD
+"ent_amb_falling_leaves_s"-> LOD, wind
+"ent_anim_bbq"
+"veh_oil_leak"-> damage, speed, LOD
+"ent_amb_rapid_dir_splash"-> LOD
+"muz_smg_fp"
+"bul_dirt"-> LOD
+"bul_decal_petrol"-> LOD
+"bul_tarmac"-> LOD
+"fire_petroltank_bike"-> speed, LOD
+"ent_amb_vent_haze_lg"-> LOD, wind, temp
+"veh_downwash_water"-> distance, speed, downforce, angle, LOD
+"ped_foot_sand_wet_deep"-> LOD, speed
+"wheel_decal_blood"-> LOD, groundspeed, wheelangle
+"env_fog"-> fog, wind, camspeed
+"blood_wheel"-> LOD
+"veh_petrol_leak_bike"-> damage, speed
+"ent_amb_int_waterfall_runoff"-> LOD
+"ent_dst_glass_bulb"-> LOD
+"env_dust_motes"-> LOD
+"ent_sht_electrical_box"-> LOD
+"ent_amb_fbi_smoke_edge_lip"-> LOD
+"ent_amb_fbi_smoke_linger_lt"-> LOD
+"ent_amb_water_roof_drips"-> LOD
+"ent_dst_dust"-> LOD
+"ent_amb_int_fireplace"-> LOD
+"wheel_decal_water"-> LOD, groundspeed, wheelangle, wet
+"ent_amb_wind_leaves_swirl"-> LOD, wind
+"ent_dst_rocks_small"-> LOD
+"fire_map_slow"-> strength, LOD, fuel
+"ent_amb_waterfall_splash"-> LOD
+"ent_amb_dry_ice_area"-> LOD
+"fire_petrol_pool"-> strength, dist, fadein
+"water_splash_bike_in"-> size, speed_l, speed_d
+"ent_anim_fish_flee_bubbles"-> LOD
+"bang_sand"-> impulse, velocity, vehicle
+"fire_petrol_half"-> strength, dist, fadein
+"ent_anim_cig_smoke_car"-> LOD
+"ent_amb_fbi_fire_wall_sm"-> LOD
+"veh_petrol_leak"-> damage, speed
+"ent_dst_inflate_lilo"-> LOD
+"eject_sniper_heavy"-> LOD
+"exp_grd_petrol_pump_post"-> LOD
+"env_smoke_grenade"-> smoke
+"bul_water"-> LOD
+"ent_sht_feathers"-> LOD
+"ent_brk_champagne_case"-> LOD
+"ent_anim_fish_breath_bubbles"-> LOD
+"wheel_fric_grass_Tank"-> groundspeed, wet, speed, LOD
+"glass_side_window"-> LOD, force
+"ent_ray_prologue_elec_crackle_sp"-> LOD
+"trail_splash_petrol"-> dist
+"muz_minigun"-> LOD
+"ped_wade_sand_wet"-> speed, LOD, depth
+"wheel_decal_puddle_Bike"-> LOD, groundspeed, wheelangle, wet
+"water_boat_Marques_bow"-> speed, LOD, shootout
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD
+"ent_amb_snow_mist_base"-> LOD
+"ped_parachute_canopy_trail"-> LOD
+"ent_amb_foundry_arc_heat"
+"veh_rotor_break"-> LOD

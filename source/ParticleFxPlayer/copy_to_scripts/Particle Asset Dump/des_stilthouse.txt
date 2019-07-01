@@ -1,0 +1,11 @@
+"ent_ray_fam3_creaking_dust"
+"ent_ray_fam3_terrain_dust"
+"ent_ray_fam3_concrete_frags"-> LOD
+"ent_ray_fam3_wood_frags"
+"ent_ray_fam3_falling_leaves"-> LOD
+"ent_ray_fam3_dust_linger"
+"ent_ray_fam3_windows"
+"ent_ray_fam3_deck_fracture"
+"ent_ray_fam3_wall_glass"
+"ent_ray_fam3_dust_cloud"
+"ent_ray_fam3_dust_trails"

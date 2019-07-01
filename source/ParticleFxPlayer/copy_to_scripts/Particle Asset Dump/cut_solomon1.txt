@@ -1,0 +1,4 @@
+"cs_sol2_coffee_steam"-> LOD
+"ped_foot_dusty"-> LOD, size, speed
+"muz_pistol"-> LOD
+"scr_sol1_plane_smoke"-> LOD, Shot1, Shot2, Shot3

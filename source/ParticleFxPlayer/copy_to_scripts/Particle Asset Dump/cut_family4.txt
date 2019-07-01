@@ -1,0 +1,13 @@
+"cs_fam4_fridge_door"-> LOD
+"cs_fam4_juice_pour"
+"cs_fam4_water_pour"-> LOD
+"cs_fam4_juice_spit"
+"cs_fam4_juice_splash"
+"cs_fam4_shot_chandelier"-> LOD
+"cs_fam4_whiskey_splash"
+"wheel_decal_water_deep"-> LOD, groundspeed, wheelangle
+"cs_fam4_liquid_broccoli"-> LOD
+"cs_fam4_juice_shot"-> LOD
+"cs_fam4_whiskey_pour"
+"water_splash_veh_wade"-> size, speed_v, speed_r, front, back
+"muz_pistol"-> LOD

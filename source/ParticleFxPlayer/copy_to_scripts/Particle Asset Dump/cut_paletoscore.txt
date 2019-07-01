@@ -1,0 +1,23 @@
+"cs_paleto_vomit"-> LOD
+"scr_paleto_banknotes"-> LOD
+"cs_cbh_heli_gas_sign"
+"cs_cbh_heli_roof"
+"wheel_fric_sand"-> groundspeed, LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_paleto_blowtorch"
+"ent_amb_peeing"-> LOD
+"cs_cig_smoke"-> LOD
+"liquid_splash_pee"
+"bul_carmetal"-> LOD
+"bullet_shotgun_tracer"-> LOD
+"cs_paleto_bowl_steam"-> LOD
+"cs_paleto_torch"-> LOD
+"muz_minigun_alt"-> LOD
+"eject_shotgun"-> LOD
+"muz_shotgun"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"liquid_splash_water"
+"cs_paleto_gate_kick"-> size, LOD
+"cs_cbh_heli_smoke"
+"muz_minigun"-> LOD
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

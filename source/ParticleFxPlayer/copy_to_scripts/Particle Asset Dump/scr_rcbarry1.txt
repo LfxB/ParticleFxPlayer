@@ -1,0 +1,6 @@
+"scr_alien_teleport"-> LOD
+"scr_alien_beam"-> LOD, angle
+"scr_alien_charging"-> LOD
+"scr_alien_disintegrate"-> LOD
+"scr_alien_impact"-> LOD
+"scr_alien_impact_bul"-> LOD

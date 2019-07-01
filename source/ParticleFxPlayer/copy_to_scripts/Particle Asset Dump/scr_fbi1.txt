@@ -1,0 +1,5 @@
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"scr_fbi1_litter"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"scr_fbi_autopsy_blood"

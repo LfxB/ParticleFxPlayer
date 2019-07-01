@@ -1,0 +1,5 @@
+"scr_blood_head_entry"-> LOD
+"cs_lest1_phone_exp"-> LOD
+"scr_exp_phone_head"
+"scr_camera_flash"
+"scr_blood_head_exit"

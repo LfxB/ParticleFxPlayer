@@ -1,0 +1,6 @@
+"cs_doobie_smoke"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke_inhale"-> LOD, inhale
+"cs_cig_smoke"-> LOD
+"cs_mich1_lighter_flame"-> LOD
+"cs_mich1_lighter_sparks"

@@ -1,0 +1,9 @@
+"exp_yacht_defence_plane"-> LOD
+"scr_apa_jacuzzi_wade"-> size
+"scr_finders_flare" 
+"scr_apa_jacuzzi_steam_sp"-> LOD
+"proj_yacht_defence_trail"-> LOD
+"scr_apa_jacuzzi_steam"-> LOD
+"muz_yacht_defence"-> LOD
+"scr_finders_package_flare"-> LOD
+"scr_apa_jacuzzi_drips"-> LOD

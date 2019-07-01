@@ -1,0 +1,9 @@
+"eject_minigun"-> LOD
+"eject_auto"-> LOD
+"muz_assault_rifle"-> LOD
+"cs_bike_exhaust"
+"blood_entry"-> LOD, angle
+"eject_pistol"-> LOD
+"muz_smg"-> LOD
+"muz_pistol"-> LOD
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

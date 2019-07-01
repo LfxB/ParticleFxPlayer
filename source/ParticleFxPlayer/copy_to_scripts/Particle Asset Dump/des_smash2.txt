@@ -1,0 +1,7 @@
+"ent_ray_fbi4_sparks_point"
+"ent_ray_fbi4_truck_slam"
+"ent_ray_fbi4_wall_dust"-> LOD
+"ent_ray_fbi4_sparks_line"
+"ent_ray_fbi4_wall_debris"-> LOD
+"ent_ray_fbi4_terrain_dust"
+"ent_ray_fbi4_wall_dust_mote"

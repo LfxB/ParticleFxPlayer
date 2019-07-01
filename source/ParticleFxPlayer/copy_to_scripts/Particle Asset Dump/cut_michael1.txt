@@ -1,0 +1,16 @@
+"cs_mich1_pick_dirt_impact"-> LOD
+"cs_cig_smoke_stub_out"-> LOD
+"cs_mich1_spade_dirt_throw"-> LOD
+"cs_mich1_tool_dirt_impact"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_ped_foot_snow"-> LOD, size, speed
+"cs_cig_smoke"-> LOD
+"cs_mich1_breath"-> speed, temp, rate, LOD
+"cs_mich1_pick_dirt_trail"-> LOD
+"bul_carmetal"-> LOD
+"veh_exhaust_vulkan"-> LOD, throttle
+"cs_mich1_spade_dirt_impact"-> LOD
+"cs_mich1_spade_dirt_trail"-> LOD
+"eject_pistol"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"muz_pistol"-> LOD

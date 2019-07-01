@@ -1,0 +1,19 @@
+"scr_trev_amb_puke"-> LOD
+"scr_trev_puke"-> LOD
+"scr_trev_puke_splash_grd"
+"scr_puke_in_car"-> LOD
+"scr_fam_door_smoke"
+"scr_tracey_puke"-> LOD
+"scr_pts_gardner_watering"-> LOD
+"cs_mich1_lighter_flame"-> LOD
+"scr_pts_vomit_water"-> LOD
+"scr_meth_pipe_smoke"-> smoke, LOD
+"scr_pts_headsplash_trev"-> LOD
+"liquid_splash_water"
+"scr_fam_bong_smoke"-> smoke, LOD
+"scr_pts_footsplash"-> LOD
+"scr_pts_headsplash"-> LOD
+"scr_fam_moonshine_pour"-> LOD
+"scr_pts_digging"-> LOD
+"cs_mich1_lighter_sparks"
+"scr_pts_flush"

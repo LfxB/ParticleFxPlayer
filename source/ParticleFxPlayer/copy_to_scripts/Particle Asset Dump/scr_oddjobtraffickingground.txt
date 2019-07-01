@@ -1,0 +1,4 @@
+"scr_drug_traffic_flare_L"
+"scr_ojdg5_barrels_smoke"-> damage
+"scr_drug_traffic_flare"-> LOD
+"scr_ojdg5_barrels"-> damage

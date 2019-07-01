@@ -1,0 +1,3 @@
+"ent_anim_dog_poo"
+"liquid_splash_pee"
+"ent_anim_dog_peeing"-> LOD

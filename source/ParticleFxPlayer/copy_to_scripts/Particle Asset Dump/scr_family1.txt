@@ -1,0 +1,5 @@
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"scr_fam1_blood_headshot"-> LOD
+"scr_fam1_veh_smoke"-> damage, speed, reverse, LOD
+"cs_cig_exhale_nose"-> LOD

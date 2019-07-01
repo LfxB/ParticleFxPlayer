@@ -1,0 +1,24 @@
+"water_splash_ped_wade"-> speed, spine, LOD, size
+"veh_exhaust_hidden"-> speed, temp, damage, throttle, LOD
+"cs_trev1_blood_pool"-> LOD
+"cs_trev1_crackpipe_smoke"-> LOD
+"cs_head_kick_blood"
+"water_splash_ped_out"-> speed, spine, LOD
+"water_splash_ped_in"-> speed, spine, LOD
+"cs_trev1_ankle_water"-> LOD
+"cs_trev1_beer_bottle"-> LOD
+"cs_trev1_ped_water_splash"-> bigger
+"cs_trev1_wheel_spin_sand"-> spin, LOD, friction
+"cs_trev1_wheel_fric_sand_Bike"-> LOD, groundspeed, wheelangle
+"cs_trev1_dusty_kick"-> LOD, size
+"ped_breath_water"-> LOD, depth, speed
+"cs_trev1_lighter_sparks"
+"wheel_fric_dirt_dry"-> friction, wet, speed, LOD
+"water_splash_ped"-> LOD, speed
+"veh_exhaust_truck"-> speed, temp, damage, throttle, LOD
+"cs_trev1_trailer_wash"
+"cs_meth_pipe_smoke"-> smoke, LOD
+"ped_water_drips"-> LOD, inwater
+"cs_trev1_lighter_flame"-> LOD
+"ped_underwater_trails"-> LOD, speed, depth, length
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

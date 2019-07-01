@@ -1,0 +1,3 @@
+"scr_carsteal3_tyre_spikes"-> size, LOD, heli
+"scr_carsteal4_tyre_spiked"-> LOD
+"scr_carsteal3_eject"-> LOD

@@ -1,0 +1,7 @@
+"ent_ray_paleto_gas_plume_L"-> LOD
+"ent_ray_paleto_gas_explosion"-> LOD
+"ent_ray_paleto_gas_window_break"-> LOD
+"ent_ray_paleto_gas_dust_terrain"-> LOD
+"ent_ray_paleto_gas_plume"-> LOD
+"ent_ray_paleto_gas_debris_trails"
+"ent_ray_paleto_gas_exp_tiles"

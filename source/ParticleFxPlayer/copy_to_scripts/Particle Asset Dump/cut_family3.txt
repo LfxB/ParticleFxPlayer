@@ -1,0 +1,7 @@
+"cs_fam3_drool_drip"-> stop, opacity
+"cs_cig_smoke"-> LOD
+"cs_fam3_brk_pot_plant"-> LOD
+"cs_fam3_cig_exhale_mouth"-> LOD
+"cs_mich1_lighter_flame"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"cs_mich1_lighter_sparks"

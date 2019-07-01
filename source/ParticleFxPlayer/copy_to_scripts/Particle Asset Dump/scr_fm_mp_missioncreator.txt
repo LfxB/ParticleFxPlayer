@@ -1,0 +1,19 @@
+"ent_anim_cig_exhale_mth_car"-> LOD
+"scr_mp_generic_dst"-> LOD
+"ent_anim_cig_exhale_nse"-> LOD
+"scr_mp_drug_dst"-> LOD
+"scr_sh_cig_exhale_nose"-> LOD
+"ent_anim_cig_smoke"-> LOD
+"scr_sh_cig_smoke"-> LOD
+"scr_mp_elec_dst"-> LOD
+"ent_amb_shower"-> LOD
+"ent_amb_shower_steam"-> LOD
+"scr_sh_lighter_flame"-> LOD, Inhale
+"scr_sh_cig_exhale_mouth"-> LOD
+"ent_anim_cig_exhale_mth"-> LOD
+"ent_anim_cig_exhale_nse_car"-> LOD
+"scr_mp_dust_cloud"-> LOD
+"scr_sh_lighter_sparks"
+"scr_sh_bong_smoke"-> smoke, LOD
+"ent_anim_cig_smoke_car"-> LOD
+"scr_crate_drop_beacon"-> LOD

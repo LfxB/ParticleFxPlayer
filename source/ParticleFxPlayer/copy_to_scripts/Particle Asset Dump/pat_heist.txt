@@ -1,0 +1,1 @@
+"scr_heist_ornate_thermal_burn_patch"-> LOD, DieOff

@@ -1,0 +1,2 @@
+"cs_omega2_ambient_smoke"
+"cs_omega2_ufo"

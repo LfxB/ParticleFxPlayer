@@ -1,0 +1,2 @@
+"cs_sol5_blood_head_shot"-> LOD, angle
+"muz_pistol"-> LOD

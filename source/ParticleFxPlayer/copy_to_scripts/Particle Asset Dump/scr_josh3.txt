@@ -1,0 +1,6 @@
+"scr_josh3_light_explosion"-> LOD
+"scr_josh3_fires"-> LOD
+"exp_grd_petrol_pump_spawn"-> LOD
+"scr_josh3_explosion"-> LOD
+"scr_josh3_exp_debris"-> LOD
+"scr_josh3_house_smoked"-> LOD

@@ -1,0 +1,14 @@
+"scr_bio_cutter_nozzle"
+"muz_assault_rifle"-> LOD
+"scr_bio_cutter_flame"
+"scr_bio_grille_cutting"
+"scr_fbi5_dry_ice"-> LOD
+"water_splash_ped_bubbles"-> LOD, speed
+"scr_tunnel_vent_bubbles"-> LOD
+"ped_talk_water"-> LOD, depth, speed
+"bul_carmetal"-> LOD
+"scr_fbi5a_flare"-> LOD
+"scr_bio_flare"
+"scr_bio_grille_break"-> open, LOD
+"scr_fbi5_ped_water_splash"
+"scr_bio_grille_singed"

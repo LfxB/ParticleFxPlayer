@@ -1,0 +1,4 @@
+"wheel_fric_hard_tank_indep"-> friction, wet, speed, LOD
+"wheel_fric_hard_Bike_indep"-> friction, wet, speed, LOD
+"wheel_fric_hard_indep"-> friction, wet, speed, LOD, spin
+"wheel_burnout_indep"-> friction, speed, temp, LOD, bike

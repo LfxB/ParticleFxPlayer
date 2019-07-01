@@ -1,0 +1,1 @@
+"ent_amb_insect_plane"-> LOD

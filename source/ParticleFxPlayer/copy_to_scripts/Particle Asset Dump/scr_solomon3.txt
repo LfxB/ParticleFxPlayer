@@ -1,0 +1,7 @@
+"scr_trev4_747_engine_heathaze"-> LOD, throttle
+"scr_trev4_747_blood_impact"-> LOD
+"scr_trev4_trailer_fire"-> LOD
+"scr_trev4_747_engine_debris"-> LOD
+"scr_trev4_747_engine_damage"
+"scr_trev4_747_exhaust_plane_misfire"
+"scr_trev4_747_blood_splash"

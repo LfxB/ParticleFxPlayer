@@ -1,0 +1,12 @@
+"scr_drug_grd_train_exp"-> LOD
+"scr_boat_trails_sp"
+"scr_ojdg4_water_exp"-> LOD
+"scr_drug_grd_plane_exp"-> LOD
+"scr_ojdg4_train_fire"-> LOD
+"scr_drug_traffic_flare_L"
+"scr_crate_drop_flare"-> LOD
+"scr_ojdg4_boat_wreck_fire"-> fade, LOD
+"scr_mp_intro_plane_exhaust"-> LOD
+"scr_ojdg4_boat_exp"
+"scr_boat_exp_sp"
+"scr_crate_drop_beacon"-> LOD

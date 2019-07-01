@@ -1,0 +1,13 @@
+"ent_ray_pro1_sprinkler_burst"
+"ent_ray_pro1_floating_cash"-> LOD
+"ent_ray_pro1_water_splash_spawn"
+"ent_ray_pro1_light_glass"
+"ent_ray_pro_door_steam"-> LOD
+"ent_ray_pro1_vault_exp2"
+"ent_ray_pro1_residual_smoke"
+"ent_ray_pro1_sparking_wires"-> LOD
+"ent_ray_pro1_bolt_sparks"
+"ent_ray_pro1_wall_smashed"
+"ent_ray_pro1_ceiling_debris"
+"ent_ray_pro1_concrete_impacts"
+"ent_ray_pro1_floor_sparks"

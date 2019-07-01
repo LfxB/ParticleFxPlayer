@@ -1,0 +1,5 @@
+"scr_ex2_rpg_trail"-> LOD
+"scr_ex2_chop_trail"-> LOD
+"scr_ex2_car_impact"-> LOD
+"scr_ex2_car_slide"
+"scr_ex2_jeep_engine_fire"-> LOD

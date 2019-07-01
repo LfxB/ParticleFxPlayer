@@ -1,0 +1,3 @@
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"cs_cig_exhale_nose"-> LOD

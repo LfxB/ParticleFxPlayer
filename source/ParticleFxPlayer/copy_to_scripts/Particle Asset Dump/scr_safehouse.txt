@@ -1,0 +1,6 @@
+"scr_sh_cig_exhale_nose"-> LOD
+"scr_sh_cig_smoke"-> LOD
+"scr_sh_lighter_flame"-> LOD, Inhale
+"scr_sh_cig_exhale_mouth"-> LOD
+"scr_sh_lighter_sparks"
+"scr_sh_bong_smoke"-> smoke, LOD

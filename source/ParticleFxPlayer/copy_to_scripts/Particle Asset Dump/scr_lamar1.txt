@@ -1,0 +1,4 @@
+"scr_lamar1_door_breach"
+"scr_lamar1_fire_spread"-> LOD
+"scr_lamar1_fire_spread1"-> LOD
+"scr_env_agency3b_smoke"-> smoke, cinder, debris, speed, smoke_strength

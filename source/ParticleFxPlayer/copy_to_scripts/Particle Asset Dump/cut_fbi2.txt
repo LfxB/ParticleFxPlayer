@@ -1,0 +1,3 @@
+"cs_fib2_blood_hand"-> LOD
+"veh_downwash"-> distance, speed, downforce, angle, LOD
+"ped_foot_dirt_dry"-> LOD, speed

@@ -1,0 +1,13 @@
+"scr_sol1_plane_tail_fire"-> LOD
+"scr_sol1_fire_trail"-> LOD
+"scr_sol1_sniper_impact"-> LOD
+"ent_amb_elec_crackle_sp"-> LOD
+"sp_scr_sol1_fire_drip_trail"-> LOD
+"scr_sol1_plane_smoke_loop"
+"scr_sol1_plane_crash_dust"
+"scr_sol1_plane_wreck"-> LOD
+"scr_sol1_plane_engine_fire"-> LOD
+"scr_sol1_fire_drip"-> LOD
+"scr_sol1_fire_spot"-> LOD
+"scr_sol1_plane_elec_crackle"-> LOD
+"scr_sol1_plane_smoke"-> LOD, Shot1, Shot2, Shot3

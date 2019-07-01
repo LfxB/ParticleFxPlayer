@@ -1,0 +1,3 @@
+"sp_petrolcan_splash_CS"-> LOD
+"cs_agency_toaster_smoke"
+"cs_weap_petrol_can"

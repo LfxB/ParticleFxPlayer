@@ -1,0 +1,17 @@
+"cs_fam5_water_splash_ped_out"-> speed, spine, LOD
+"cs_fam5_water_splash_ped"-> LOD, speed
+"cs_alien_light_bed"-> LOD
+"cs_fam5_bourbon_pour"-> LOD
+"cs_alien_hand_light"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"cs_fam5_water_splash_ped_in"-> speed, spine, LOD
+"ped_breath_water"-> LOD, depth, speed
+"cs_fam4_whiskey_splash"
+"cs_mich1_lighter_flame"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"cs_fam5_ped_water_drips"-> LOD
+"cs_fam5_water_splash_ped_wade"-> speed, spine, LOD, size
+"ped_underwater_trails"-> LOD, speed, depth, length
+"cs_fam5_michael_pool_splash"
+"cs_mich1_lighter_sparks"

@@ -1,0 +1,3 @@
+"scr_chin1_freezer_gust"-> LOD
+"cs_dry_ice_freezer_door"-> LOD
+"scr_petrol_trail_fire"-> strength, LOD

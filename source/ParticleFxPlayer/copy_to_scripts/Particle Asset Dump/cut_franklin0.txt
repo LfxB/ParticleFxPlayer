@@ -1,0 +1,6 @@
+"cs_franklin0_scrape_bike"-> impulse, velocity, LOD
+"wheel_burnout"-> friction, speed, temp, LOD, bike
+"wheel_fric_hard_Bike"-> friction, wet, speed, LOD, spin
+"cs_franklin0_dog_shake"
+"cs_franklin0_dog_drool"-> LOD
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

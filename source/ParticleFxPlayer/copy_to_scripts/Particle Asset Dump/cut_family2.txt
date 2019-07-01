@@ -1,0 +1,11 @@
+"cs_cig_smoke_stub_out"-> LOD
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke_inhale"-> LOD, inhale
+"cs_cig_smoke"-> LOD
+"cs_fam2_radio_splash"
+"cs_fam2_foot_sand"-> LOD
+"cs_fam2_ped_splash"
+"ped_water_drips"-> LOD, inwater
+"cs_cig_exhale_nose"-> LOD
+"cs_fam2_ped_water_splash"-> LOD, speed
+"cs_water_splash_jetski"-> size, speed

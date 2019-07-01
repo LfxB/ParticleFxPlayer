@@ -1,0 +1,2 @@
+"muz_assault_rifle"-> LOD
+"ped_foot_dusty"-> LOD, size, speed

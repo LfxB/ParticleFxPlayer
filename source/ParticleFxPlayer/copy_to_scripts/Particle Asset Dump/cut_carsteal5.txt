@@ -1,0 +1,2 @@
+"cs_car2_bang_blood"-> LOD
+"veh_exhaust_car"-> speed, temp, damage, throttle, LOD

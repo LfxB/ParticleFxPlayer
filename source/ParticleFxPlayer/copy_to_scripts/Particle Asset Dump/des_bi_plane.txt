@@ -1,0 +1,4 @@
+"ent_ray_ex1_plane_spark_R"-> LOD
+"ent_ray_ex1_plane_break_L"-> LOD
+"ent_ray_ex1_plane_spark_L"-> LOD
+"ent_ray_ex1_plane_break_R"-> LOD

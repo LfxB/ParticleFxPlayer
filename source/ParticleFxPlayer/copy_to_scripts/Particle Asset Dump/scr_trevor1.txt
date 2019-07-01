@@ -1,0 +1,7 @@
+"ent_ray_meth_dust_settle"-> LOD
+"scr_trev1_trailer_wires"-> LOD
+"scr_trev1_trailer_boosh"-> LOD
+"scr_trev1_crash_dust"-> speed
+"sp_ent_sparking_wires"-> LOD
+"scr_trev1_trailer_splash"-> size, speed, LOD
+"scr_trev1_wheelspin_dirt"-> wheelspin

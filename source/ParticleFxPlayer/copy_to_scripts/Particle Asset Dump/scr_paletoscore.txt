@@ -1,0 +1,14 @@
+"scr_paleto_roof_impact"
+"scr_trev_puke"-> LOD
+"scr_paleto_fire_trail"-> strength, dist
+"scr_paleto_banknotes"-> LOD
+"scr_alarm_damage_sparks"-> LOD
+"scr_paleto_box_spawned"-> LOD
+"scr_trev_puke_splash_grd"
+"cs_paleto_blowtorch"
+"scr_paleto_heli_plume"-> LOD
+"ent_amb_peeing"-> LOD
+"liquid_splash_pee"
+"scr_paleto_doorway_smoke"-> LOD
+"cs_rbhs_int_delap_dust"
+"scr_paleto_box_sparks"

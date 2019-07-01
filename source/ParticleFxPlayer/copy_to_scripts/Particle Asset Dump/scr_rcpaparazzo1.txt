@@ -1,0 +1,10 @@
+"scr_mich4_firework_burst_spawn"
+"scr_rcpap1_smoke_vent"-> LOD
+"scr_mich4_firework_trailburst"
+"scr_rcpap1_champ_slosh"-> flow
+"scr_mich4_firework_starburst"
+"scr_rcpap1_camera"
+"scr_rcpap1_champ_burst"-> LOD
+"scr_mich4_firework_trail_spawn"
+"scr_mich4_firework_trailburst_spawn"
+"scr_mich4_firework_sparkle_spawn"

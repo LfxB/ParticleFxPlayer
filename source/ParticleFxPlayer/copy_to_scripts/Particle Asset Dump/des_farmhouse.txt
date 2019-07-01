@@ -1,0 +1,5 @@
+"ent_ray_ch2_farm_CS_lights"
+"ent_ray_ch2_farm_exp"-> LOD
+"ent_ray_ch2_farm_exp_porch_window"-> LOD
+"ent_ray_ch2_farm_fire_light"
+"ent_ray_ch2_farm_dust_terrain"

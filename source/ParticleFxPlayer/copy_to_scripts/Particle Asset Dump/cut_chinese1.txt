@@ -1,0 +1,10 @@
+"cs_ch1_bourbon_pour"-> LOD
+"cs_dry_ice_point"-> LOD
+"cs_ch1_veh_exhaust_car"
+"cs_head_kick_blood"
+"cs_cig_exhale_mouth"-> LOD
+"cs_cig_smoke"-> LOD
+"cs_dry_ice_freezer_floor"
+"cs_dry_ice_freezer_door"-> LOD
+"cs_cig_exhale_nose"-> LOD
+"cs_ch1_head_bang_blood"-> LOD

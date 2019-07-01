@@ -1,0 +1,15 @@
+"scr_fbi_mop_drips"
+"scr_agency3a_door_hvy_trig"
+"scr_fbi_build_exp_spawn"-> LOD
+"scr_fbi_ext_blaze"-> LOD
+"scr_fbi_falling_debris"-> wind, LOD
+"scr_agency_atrium_glass"
+"scr_agency3a_door_hvy_stat"
+"scr_fbi_ext_rooftop"-> LOD
+"scr_fbi_exp_building"
+"sp_fire_trail"-> LOD
+"scr_fbi_mop_squeeze"
+"scr_env_agency3a_arrive_deb"-> smoke, debris, smoke_strength
+"env_smoke_fbi_stairs"-> smoke
+"scr_fbi_dd_breach_smoke"-> LOD
+"scr_fbi_shaft_falling_debris"-> wind, LOD

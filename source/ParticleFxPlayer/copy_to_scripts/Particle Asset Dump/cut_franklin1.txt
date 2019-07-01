@@ -1,0 +1,5 @@
+"cs_frank1_coke_sniff"-> LOD
+"cs_frank1_coke_impact"-> LOD
+"cs_franklin1_dry_wall"
+"cs_frank1_coke_drip"
+"cs_water_splash_jetski"-> size, speed

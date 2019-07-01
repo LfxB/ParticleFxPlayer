@@ -1,0 +1,4 @@
+"ent_ray_trailerpark_dust_terrain"-> LOD
+"ent_ray_trailerpark_window"-> LOD
+"ent_ray_trailerpark_fires"-> LOD
+"ent_ray_trailerpark_explosion_L"-> LOD

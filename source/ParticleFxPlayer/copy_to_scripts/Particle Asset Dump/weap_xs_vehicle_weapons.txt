@@ -1,0 +1,4 @@
+"bullet_tracer_xs_vehicle_remote_mg_sf"-> LOD
+"muz_xs_turret_flamethrower_looping"-> LOD
+"muz_xs_vehicle_remote_mg_sf"-> LOD
+"muz_xs_turret_flamethrower_looping_sf"-> LOD

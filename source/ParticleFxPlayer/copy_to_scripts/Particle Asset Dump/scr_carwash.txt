@@ -1,0 +1,4 @@
+"ent_amb_car_wash_jet_soap"-> LOD
+"ent_amb_car_wash"-> LOD
+"ent_amb_car_wash_jet"-> LOD
+"ent_amb_car_wash_steam"-> LOD
